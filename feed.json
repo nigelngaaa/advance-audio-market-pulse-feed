@@ -1,0 +1,409 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-26T22:31:00Z",
+  "status": "baseline",
+  "periodStart": "2026-10-15",
+  "periodEnd": "2026-10-27",
+  "nextRefreshAt": "2026-11-01T00:00:00+11:00",
+  "coverage": [
+    {
+      "brand": "KEF",
+      "category": "Speakers",
+      "status": "pending",
+      "checkedAt": null,
+      "note": "First scheduled full review: 1 November 2026.",
+      "sources": []
+    },
+    {
+      "brand": "Sonos",
+      "category": "Speakers",
+      "status": "pending",
+      "checkedAt": null,
+      "note": "First scheduled full review: 1 November 2026.",
+      "sources": []
+    },
+    {
+      "brand": "Bowers & Wilkins",
+      "category": "Speakers",
+      "status": "pending",
+      "checkedAt": null,
+      "note": "First scheduled full review: 1 November 2026.",
+      "sources": []
+    },
+    {
+      "brand": "Klipsch",
+      "category": "Speakers",
+      "status": "pending",
+      "checkedAt": null,
+      "note": "First scheduled full review: 1 November 2026.",
+      "sources": []
+    },
+    {
+      "brand": "Focal",
+      "category": "Speakers",
+      "status": "pending",
+      "checkedAt": null,
+      "note": "First scheduled full review: 1 November 2026.",
+      "sources": []
+    },
+    {
+      "brand": "Monitor Audio",
+      "category": "Speakers",
+      "status": "pending",
+      "checkedAt": null,
+      "note": "First scheduled full review: 1 November 2026.",
+      "sources": []
+    },
+    {
+      "brand": "Martin Logan",
+      "category": "Speakers",
+      "status": "pending",
+      "checkedAt": null,
+      "note": "First scheduled full review: 1 November 2026.",
+      "sources": []
+    },
+    {
+      "brand": "JBL",
+      "category": "Speakers",
+      "status": "pending",
+      "checkedAt": null,
+      "note": "First scheduled full review: 1 November 2026.",
+      "sources": []
+    },
+    {
+      "brand": "Arcam",
+      "category": "Electronics",
+      "status": "pending",
+      "checkedAt": null,
+      "note": "First scheduled full review: 1 November 2026.",
+      "sources": []
+    },
+    {
+      "brand": "Hegel",
+      "category": "Electronics",
+      "status": "pending",
+      "checkedAt": null,
+      "note": "First scheduled full review: 1 November 2026.",
+      "sources": []
+    },
+    {
+      "brand": "Eversolo",
+      "category": "Electronics",
+      "status": "pending",
+      "checkedAt": null,
+      "note": "First scheduled full review: 1 November 2026.",
+      "sources": []
+    },
+    {
+      "brand": "WiiM",
+      "category": "Electronics",
+      "status": "pending",
+      "checkedAt": null,
+      "note": "First scheduled full review: 1 November 2026.",
+      "sources": []
+    },
+    {
+      "brand": "NAD",
+      "category": "Electronics",
+      "status": "pending",
+      "checkedAt": null,
+      "note": "First scheduled full review: 1 November 2026.",
+      "sources": []
+    },
+    {
+      "brand": "Marantz",
+      "category": "Electronics",
+      "status": "pending",
+      "checkedAt": null,
+      "note": "First scheduled full review: 1 November 2026.",
+      "sources": []
+    },
+    {
+      "brand": "Denon",
+      "category": "Electronics",
+      "status": "pending",
+      "checkedAt": null,
+      "note": "First scheduled full review: 1 November 2026.",
+      "sources": []
+    },
+    {
+      "brand": "Cambridge Audio",
+      "category": "Electronics",
+      "status": "pending",
+      "checkedAt": null,
+      "note": "First scheduled full review: 1 November 2026.",
+      "sources": []
+    },
+    {
+      "brand": "Moon Audio",
+      "category": "Electronics",
+      "status": "pending",
+      "checkedAt": null,
+      "note": "First scheduled full review: 1 November 2026.",
+      "sources": []
+    },
+    {
+      "brand": "Aurender",
+      "category": "Electronics",
+      "status": "pending",
+      "checkedAt": null,
+      "note": "First scheduled full review: 1 November 2026.",
+      "sources": []
+    },
+    {
+      "brand": "Linn",
+      "category": "Electronics",
+      "status": "pending",
+      "checkedAt": null,
+      "note": "First scheduled full review: 1 November 2026.",
+      "sources": []
+    },
+    {
+      "brand": "Wilson Audio",
+      "category": "High end",
+      "status": "pending",
+      "checkedAt": null,
+      "note": "First scheduled full review: 1 November 2026.",
+      "sources": []
+    },
+    {
+      "brand": "Gryphon Audio",
+      "category": "High end",
+      "status": "pending",
+      "checkedAt": null,
+      "note": "First scheduled full review: 1 November 2026.",
+      "sources": []
+    },
+    {
+      "brand": "Dan D'Agostino",
+      "category": "High end",
+      "status": "pending",
+      "checkedAt": null,
+      "note": "First scheduled full review: 1 November 2026.",
+      "sources": []
+    },
+    {
+      "brand": "Boulder",
+      "category": "High end",
+      "status": "pending",
+      "checkedAt": null,
+      "note": "First scheduled full review: 1 November 2026.",
+      "sources": []
+    },
+    {
+      "brand": "Magico",
+      "category": "High end",
+      "status": "pending",
+      "checkedAt": null,
+      "note": "First scheduled full review: 1 November 2026.",
+      "sources": []
+    },
+    {
+      "brand": "Estelon",
+      "category": "High end",
+      "status": "pending",
+      "checkedAt": null,
+      "note": "First scheduled full review: 1 November 2026.",
+      "sources": []
+    },
+    {
+      "brand": "Marten",
+      "category": "High end",
+      "status": "pending",
+      "checkedAt": null,
+      "note": "First scheduled full review: 1 November 2026.",
+      "sources": []
+    },
+    {
+      "brand": "YG Acoustics",
+      "category": "High end",
+      "status": "pending",
+      "checkedAt": null,
+      "note": "First scheduled full review: 1 November 2026.",
+      "sources": []
+    },
+    {
+      "brand": "Vivid Audio",
+      "category": "High end",
+      "status": "pending",
+      "checkedAt": null,
+      "note": "First scheduled full review: 1 November 2026.",
+      "sources": []
+    },
+    {
+      "brand": "AudioQuest",
+      "category": "Accessories",
+      "status": "pending",
+      "checkedAt": null,
+      "note": "First scheduled full review: 1 November 2026.",
+      "sources": []
+    }
+  ],
+  "items": [
+    {
+      "id": "kef-system-demo",
+      "brand": "KEF",
+      "title": "Demonstrate a complete Q Series system",
+      "summary": "KEF's Q Series guide pairs bookshelf or floorstanding speakers with centre, surround and subwoofer options for different room sizes.",
+      "implication": "Product configuration context, not measured demand or a new-launch claim.",
+      "kind": "context",
+      "publicationDate": null,
+      "checkedAt": "2026-10-02",
+      "sources": [
+        {
+          "label": "KEF system configuration guide",
+          "url": "https://international.kef.com/blogs/news/how-to-build-your-perfect-home-theatre-with-the-new-q-series-with-mat"
+        }
+      ]
+    },
+    {
+      "id": "linn-upgrade-demo",
+      "brand": "Linn",
+      "title": "Demonstrate the Selekt upgrade pathway",
+      "summary": "Linn describes a Selekt DSM system with 119 or 150 speakers that can progress from passive configuration to Exakt operation.",
+      "implication": "US product guide; no US pricing or local availability is assumed. Not evidence of demand.",
+      "kind": "context",
+      "publicationDate": null,
+      "checkedAt": "2026-10-02",
+      "sources": [
+        {
+          "label": "Linn Selekt System guide",
+          "url": "https://www.linn.co.uk/us/full-systems/selekt-system"
+        }
+      ]
+    },
+    {
+      "id": "audioquest-system-review",
+      "brand": "AudioQuest",
+      "title": "Review power protection within system proposals",
+      "summary": "AudioQuest lists Niagara power conditioning with non-sacrificial surge protection as part of its system-accessory offering.",
+      "implication": "North American product page. Regional electrical specifications must be checked; no audible benefit or demand is assumed.",
+      "kind": "context",
+      "publicationDate": null,
+      "checkedAt": "2026-10-02",
+      "sources": [
+        {
+          "label": "AudioQuest Niagara 1200 product information",
+          "url": "https://www.audioquest.com/products/niagara-1200"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "metric-0",
+      "name": "RBA cash rate",
+      "value": null,
+      "period": "Not verified for this report",
+      "publishedAt": null,
+      "checkedAt": null,
+      "note": "Awaiting a dated, source-verified release. Do not substitute illustrative values.",
+      "sources": []
+    },
+    {
+      "id": "metric-1",
+      "name": "Australian CPI inflation",
+      "value": null,
+      "period": "Not verified for this report",
+      "publishedAt": null,
+      "checkedAt": null,
+      "note": "Awaiting a dated, source-verified release. Do not substitute illustrative values.",
+      "sources": []
+    },
+    {
+      "id": "metric-2",
+      "name": "Consumer sentiment",
+      "value": null,
+      "period": "Not verified for this report",
+      "publishedAt": null,
+      "checkedAt": null,
+      "note": "Awaiting a dated, source-verified release. Do not substitute illustrative values.",
+      "sources": []
+    },
+    {
+      "id": "metric-3",
+      "name": "Household spending",
+      "value": null,
+      "period": "Not verified for this report",
+      "publishedAt": null,
+      "checkedAt": null,
+      "note": "Awaiting a dated, source-verified release. Do not substitute illustrative values.",
+      "sources": []
+    },
+    {
+      "id": "metric-4",
+      "name": "Retail spending",
+      "value": null,
+      "period": "Not verified for this report",
+      "publishedAt": null,
+      "checkedAt": null,
+      "note": "Awaiting a dated, source-verified release. Do not substitute illustrative values.",
+      "sources": []
+    },
+    {
+      "id": "metric-5",
+      "name": "Share of voice",
+      "value": null,
+      "period": "Not verified for this report",
+      "publishedAt": null,
+      "checkedAt": null,
+      "note": "No measured monitoring feed connected. Research samples cannot establish market-wide volumes, sentiment or share of voice.",
+      "sources": []
+    },
+    {
+      "id": "metric-6",
+      "name": "Brand sentiment",
+      "value": null,
+      "period": "Not verified for this report",
+      "publishedAt": null,
+      "checkedAt": null,
+      "note": "No measured monitoring feed connected. Research samples cannot establish market-wide volumes, sentiment or share of voice.",
+      "sources": []
+    },
+    {
+      "id": "metric-7",
+      "name": "Price sensitivity",
+      "value": null,
+      "period": "Not verified for this report",
+      "publishedAt": null,
+      "checkedAt": null,
+      "note": "No measured monitoring feed connected. Research samples cannot establish market-wide volumes, sentiment or share of voice.",
+      "sources": []
+    }
+  ],
+  "actions": [
+    {
+      "id": "kef-system-demo-action",
+      "title": "Demonstrate a complete Q Series system",
+      "brand": "KEF",
+      "detail": "Review the dealer's current display and propose one room-appropriate stereo-to-home-cinema demonstration. Confirm local stock and the customer's actual range before quoting.",
+      "sourceIds": [
+        "kef-system-demo"
+      ]
+    },
+    {
+      "id": "linn-upgrade-demo-action",
+      "title": "Demonstrate the Selekt upgrade pathway",
+      "brand": "LINN",
+      "detail": "Check which Linn systems are on display, then propose a passive-to-Exakt demonstration and a staff briefing. Validate module compatibility and local availability first.",
+      "sourceIds": [
+        "linn-upgrade-demo"
+      ]
+    },
+    {
+      "id": "audioquest-system-review-action",
+      "title": "Review power protection within system proposals",
+      "brand": "AUDIOQUEST",
+      "detail": "Review the dealer's system proposals and staff understanding of power protection. Confirm the correct Australian or New Zealand model and electrical compatibility; do not quote the North American configuration.",
+      "sourceIds": [
+        "audioquest-system-review"
+      ]
+    }
+  ],
+  "limitations": [
+    "Initial setup baseline, not a completed current-period review. Product context below was last checked on 2 October 2026.",
+    "Full research is scheduled at midnight Australia/Sydney on the 1st and 15th. A run starts then; publication follows research and validation.",
+    "Public sources only. Unavailable metrics stay unavailable; no synthetic mention counts, sentiment scores or buying-climate index.",
+    "Actions are suggested interpretations, not evidence of customer demand, local stock or performance superiority."
+  ]
+}
