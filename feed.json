@@ -856,6 +856,150 @@
           "url": "https://www.audioquest.com/pages/events"
         }
       ]
+    },
+    {
+      "id": "kef-crestron-home-drivers",
+      "brand": "KEF",
+      "title": "Earlier context: certified KEF drivers for Crestron Home",
+      "summary": "KEF announced certified control drivers distributed through the Crestron Driver Portal, allowing KEF loudspeakers to be discovered, configured and controlled within Crestron Home projects. The announcement said the drivers would be available to integrators in October 2026.",
+      "implication": "Custom-install conversations can reference native Crestron Home support for KEF, but Australian integrators should confirm driver availability and supported models in the Crestron Driver Portal before quoting.",
+      "kind": "context",
+      "publicationDate": "2026-08-25",
+      "checkedAt": "2026-11-03",
+      "sources": [
+        {
+          "label": "CE Pro: KEF Announces Official Control Drivers for Crestron Home",
+          "url": "https://www.cepro.com/news/kef-announces-official-control-drivers-for-crestron-home/628224/"
+        },
+        {
+          "label": "Residential Systems: Certified KEF Drivers Now Available Through the Crestron Driver Portal",
+          "url": "https://www.residentialsystems.com/tag/crestron-home"
+        }
+      ]
+    },
+    {
+      "id": "kef-ls-luxe-australia",
+      "brand": "KEF",
+      "title": "Earlier context: LS LUXE on sale in Australia at $6,375 a pair",
+      "summary": "KEF's LS LUXE active wireless system, designed with Ross Lovegrove, has been available in Australia since 30 July 2026 through au.kef.com and authorised KEF retailers at $6,375 a pair. Matching S-LUXE floor stands are listed at $1,230.",
+      "implication": "LS LUXE suits design-led customers wanting a complete system without separate amplification; quote current KEF Australia pricing and finish availability rather than launch-period figures.",
+      "kind": "context",
+      "publicationDate": null,
+      "checkedAt": "2026-11-03",
+      "sources": [
+        {
+          "label": "KEF Australia: LS LUXE product page",
+          "url": "https://au.kef.com/products/ls-luxe"
+        },
+        {
+          "label": "GadgetGuy: KEF LS LUXE: Ross Lovegrove speakers hit Australia",
+          "url": "https://www.gadgetguy.com.au/kef-ls-luxe-wireless-speakers-now-on-sale-in-australia"
+        }
+      ]
+    },
+    {
+      "id": "bw-800-d5-availability",
+      "brand": "Bowers & Wilkins",
+      "title": "Earlier context: 800 Series Diamond D5 on sale from 9 September",
+      "summary": "Bowers & Wilkins announced the seven-model 800 Series Diamond D5 range on 4 June 2026 at HIGH END Vienna, with availability from 9 September. Man of Many reports Australian pricing from AUD 19,900 per pair for the 805 D5 to AUD 84,900 per pair for the 801 D5.",
+      "implication": "Expect flagship comparison questions in premium two-channel conversations; verify local stock and current pricing with the Australian distributor before quoting.",
+      "kind": "context",
+      "publicationDate": "2026-06-04",
+      "checkedAt": "2026-11-03",
+      "sources": [
+        {
+          "label": "HARMAN: 60 Years In The Making: Bowers & Wilkins 800 Series Diamond D5",
+          "url": "https://news.harman.com/releases/60-years-in-the-making-bowers-wilkins-800-series-diamond-d5"
+        },
+        {
+          "label": "Man of Many: Bowers & Wilkins 800 Series Diamond D5",
+          "url": "https://manofmany.com/tech/bowers-wilkins-800-series-diamond-d5"
+        }
+      ]
+    },
+    {
+      "id": "focal-diva-alta-utopia",
+      "brand": "Focal",
+      "title": "Earlier context: Diva Alta Utopia active flagship at US$210,000 a pair",
+      "summary": "Focal's Diva Alta Utopia is a four-way active wireless floorstander with built-in Naim amplification, streaming, DAC and DSP, and a new PRISM tweeter. The press release lists availability from August 2026 through the Focal Powered by Naim network at US$210,000 a pair; eCoustics reports a 17 June launch.",
+      "implication": "Useful as a reference point for how far all-in-one active hi-fi now extends; overseas pricing does not establish Australian pricing or availability.",
+      "kind": "context",
+      "publicationDate": null,
+      "checkedAt": "2026-11-03",
+      "sources": [
+        {
+          "label": "HomeTheaterHifi: Focal Unveils Diva Alta Utopia",
+          "url": "https://hometheaterhifi.com/press-releases/focal-unveils-diva-alta-utopia/"
+        },
+        {
+          "label": "eCoustics: Focal and Naim at Audio Advice Live 2026",
+          "url": "https://www.ecoustics.com/news/focal-naim-audio-advice-live-2026/"
+        }
+      ]
+    },
+    {
+      "id": "klipsch-rp3-klipschorn-80th",
+      "brand": "Klipsch",
+      "title": "Earlier context: Reference Premiere III and 80th Anniversary Klipschorn",
+      "summary": "Klipsch announced the nine-model Reference Premiere III Series on 7 August 2026, with all models due in October. Separately, the Limited Edition 80th Anniversary Klipschorn, announced 4 June 2026, is limited to 280 pairs worldwide; Best of High End reports US$24,998 per pair including the Heritage Active Crossover.",
+      "implication": "Home theatre and heritage-horn enquiries may increase; confirm Australian timing and pricing locally before quoting either range.",
+      "kind": "context",
+      "publicationDate": "2026-08-07",
+      "checkedAt": "2026-11-03",
+      "sources": [
+        {
+          "label": "Klipsch: Klipsch Redefines Reference Premiere Series",
+          "url": "https://www.klipsch.com/news/klipsch-redefines-reference-premiere-series/"
+        },
+        {
+          "label": "Klipsch: Limited Edition Two-Way Klipschorn announcement",
+          "url": "https://www.klipsch.com/news/80-years-of-legendary-sound-klipsch-unlocks-the-vault-to-release-limited-edition-two-way-klipschorn/"
+        },
+        {
+          "label": "Best of High End: 80th Anniversary Klipschorn",
+          "url": "https://bestofhighend.com/klipsch-limited-edition-80th-anniversary-klipschorn/"
+        }
+      ]
+    },
+    {
+      "id": "sonos-beam-ultra-ace-ultra",
+      "brand": "Sonos",
+      "title": "Earlier context: Beam Ultra, Ace Ultra and Sonos 27",
+      "summary": "Sonos introduced the Beam Ultra soundbar (7.1.2 Dolby Atmos) and Ace Ultra headphones on 1 September 2026 alongside its Sonos 27 software platform, with general availability on 29 September. EFTM lists Australian pricing of AUD 1,099 and AUD 699 respectively.",
+      "implication": "Mainstream multi-room shoppers will hear Sonos ecosystem and AI messaging; position specialist systems on sound quality and system design rather than feature-matching.",
+      "kind": "context",
+      "publicationDate": "2026-09-01",
+      "checkedAt": "2026-11-03",
+      "sources": [
+        {
+          "label": "Sonos Newsroom: Sonos Welcomes Beam Ultra and Sonos Ace Ultra to its System",
+          "url": "https://newsroom.sonos.com/269788-sonos-welcomes-beam-ultra-and-sonos-ace-ultra-to-its-system/"
+        },
+        {
+          "label": "EFTM: Sonos expands its personal and home audio range",
+          "url": "https://eftm.com/2026/09/sonos-expands-its-personal-and-home-audio-range-alongside-an-update-to-its-operating-system-280508"
+        }
+      ]
+    },
+    {
+      "id": "sonus-faber-olympica-g3",
+      "brand": "Sonus faber",
+      "title": "Earlier context: Olympica G3 five-model collection",
+      "summary": "Sonus faber's third-generation Olympica G3 collection comprises five models (Olympica I, III and V, Center and Wall) using Suprema-derived Camelia midrange technology. eCoustics lists US pricing from US$13,000 per pair for Olympica I to US$30,000 per pair for Olympica V.",
+      "implication": "A further premium two-channel option customers may cross-shop; compare on system fit and room rather than headline price, and confirm Australian pricing locally.",
+      "kind": "context",
+      "publicationDate": "2026-09-16",
+      "checkedAt": "2026-11-03",
+      "sources": [
+        {
+          "label": "Son-Vidéo blog: Sonus faber Olympica G3",
+          "url": "https://blog.son-video.com/en/2026/09/sonus-faber-olympica-g3-the-prestigious-italian-range-reimagined"
+        },
+        {
+          "label": "eCoustics: Sonus faber Olympica G3",
+          "url": "https://www.ecoustics.com/products/sonus-faber-olympica-g3/"
+        }
+      ]
     }
   ],
   "metrics": [
@@ -1048,6 +1192,37 @@
         "aurender-source-network-context",
         "vivid-kaya25-older-review"
       ]
+    },
+    {
+      "id": "flagship-price-context",
+      "title": "Use new flagships as context, not head-to-head claims",
+      "brand": "Multiple",
+      "detail": "Recent flagship launches (B&W 800 D5, Focal Diva Alta Utopia, Sonus faber Olympica G3) show how high premium pricing now reaches. Use them to frame value conversations around products like KEF LS LUXE, without asserting comparative performance.",
+      "sourceIds": [
+        "bw-800-d5-availability",
+        "focal-diva-alta-utopia",
+        "sonus-faber-olympica-g3",
+        "kef-ls-luxe-australia"
+      ]
+    },
+    {
+      "id": "integrator-control-talking-point",
+      "title": "Raise control-system integration with custom installers",
+      "brand": "KEF",
+      "detail": "Mention certified KEF drivers for Crestron Home when discussing whole-home projects, and be ready for Sonos ecosystem comparisons; confirm driver availability before committing to a design.",
+      "sourceIds": [
+        "kef-crestron-home-drivers",
+        "sonos-beam-ultra-ace-ultra"
+      ]
+    },
+    {
+      "id": "home-theatre-range-refresh",
+      "title": "Prepare for Klipsch range-refresh questions",
+      "brand": "Klipsch",
+      "detail": "Reference Premiere III and the limited Klipschorn may prompt home theatre and heritage enquiries; confirm local timing and pricing before quoting.",
+      "sourceIds": [
+        "klipsch-rp3-klipschorn-80th"
+      ]
     }
   ],
   "limitations": [
@@ -1063,6 +1238,7 @@
     "No measured mention volume, share of voice, brand sentiment, price sensitivity or buying-climate index is available; none is estimated from search counts or selected articles.",
     "Implications and actions are editorial suggestions tied to cited public evidence, not facts about individual accounts or instructions to transact.",
     "No private customer records, sales data, account plans, login data or dashboard databases were consulted or published; only public research JSON is changed.",
-    "This feed publication does not verify whether the private dashboard's feed integration has been released; no dashboard code or database is changed by this update."
+    "This feed publication does not verify whether the private dashboard's feed integration has been released; no dashboard code or database is changed by this update.",
+    "Supplemented on 3 November 2026 with seven source-checked items carried over from the Hi-Fi Market Pulse dashboard. All are earlier context published before this period; the dashboard's synthetic metrics, mention counts and internal commercial claims were not carried over. generatedAt and the reporting period are unchanged."
   ]
 }
