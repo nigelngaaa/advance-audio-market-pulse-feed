@@ -1,21 +1,25 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T13:06:03.560Z",
+  "generatedAt": "2026-11-14T13:12:59.573Z",
   "status": "partial",
-  "periodStart": "2026-10-15",
-  "periodEnd": "2026-10-31",
-  "nextRefreshAt": "2026-11-15T00:00:00+11:00",
+  "periodStart": "2026-11-01",
+  "periodEnd": "2026-11-14",
+  "nextRefreshAt": "2026-12-01T00:00:00+11:00",
   "coverage": [
     {
       "brand": "KEF",
       "category": "Speakers",
       "status": "checked",
-      "checkedAt": "2026-11-01",
-      "note": "Searched current coverage and verified a dated Melbourne report; this is show coverage, not evidence of a new launch during the period.",
+      "checkedAt": "2026-11-15",
+      "note": "Searched this brand and reviewed the cited source pages. Dated announcements, reviews or editorial coverage are separated from older/undated context; foreign coverage does not confirm Australian availability.",
       "sources": [
         {
-          "label": "StereoNET",
-          "url": "https://www.stereonet.com/news/au-expo-kef-coda-w-giveaway-winner-announced"
+          "label": "international.kef.com",
+          "url": "https://international.kef.com/blogs/news/xio-new-wireless-surround-update"
+        },
+        {
+          "label": "ap.kef.com",
+          "url": "https://ap.kef.com/blogs/news/the-art-of-sound-when-hifi-speakers-become-sculptural-objects"
         }
       ]
     },
@@ -23,12 +27,12 @@
       "brand": "Sonos",
       "category": "Speakers",
       "status": "checked",
-      "checkedAt": "2026-11-01",
-      "note": "Verified a dated first-party release notice; staged rollout is retained as a caveat.",
+      "checkedAt": "2026-11-15",
+      "note": "Searched this brand and reviewed the cited source pages. Dated announcements, reviews or editorial coverage are separated from older/undated context; foreign coverage does not confirm Australian availability.",
       "sources": [
         {
-          "label": "Sonos staff release notice",
-          "url": "https://en.community.sonos.com/product-updates/sonos-27-2-is-rolling-out-on-android-you-can-now-manage-music-services-from-the-web-app-6935079"
+          "label": "en.community.sonos.com",
+          "url": "https://en.community.sonos.com/product-updates/10th-nov-2026-new-sonos-app-player-updates-now-available-6935200"
         }
       ]
     },
@@ -36,12 +40,12 @@
       "brand": "Bowers & Wilkins",
       "category": "Speakers",
       "status": "checked",
-      "checkedAt": "2026-11-01",
-      "note": "Verified dated integration coverage; service compatibility is conditional, not a blanket Australian availability claim.",
+      "checkedAt": "2026-11-15",
+      "note": "Searched this brand and reviewed the cited source page. The retained item is explicitly context, not a newly established product launch or a claim that no news exists.",
       "sources": [
         {
-          "label": "StereoNET",
-          "url": "https://www.stereonet.com/news/bowers-wilkins-adds-presto-music-to-streaming-ecosystem"
+          "label": "cnn.com",
+          "url": "https://www.cnn.com/cnn-underscored/electronics/bowers-wilkins-headphones-2026-11-05"
         }
       ]
     },
@@ -49,12 +53,12 @@
       "brand": "Klipsch",
       "category": "Speakers",
       "status": "checked",
-      "checkedAt": "2026-11-01",
-      "note": "Verified an in-period article, not the original global announcement; overseas seasonal timing is not converted into an Australian launch date.",
+      "checkedAt": "2026-11-15",
+      "note": "Searched this brand and reviewed the cited source pages. Dated announcements, reviews or editorial coverage are separated from older/undated context; foreign coverage does not confirm Australian availability.",
       "sources": [
         {
-          "label": "Audio 2G",
-          "url": "https://audio-2g.com/en/klipsch-reference-signature-the-best-of-both-worlds-hi-fi-and-home-theater/"
+          "label": "whathifi.com",
+          "url": "https://www.whathifi.com/headphones/wired-headphones/klipsch-promises-stratospheric-sound-and-sky-high-comfort-from-its-latest-duo-of-high-end-wired-headphones"
         }
       ]
     },
@@ -62,12 +66,12 @@
       "brand": "Focal",
       "category": "Speakers",
       "status": "checked",
-      "checkedAt": "2026-11-01",
-      "note": "Verified dated press-release coverage; an installation example is not an independent performance measurement.",
+      "checkedAt": "2026-11-15",
+      "note": "Searched this brand and reviewed the cited source page. The retained item is explicitly context, not a newly established product launch or a claim that no news exists.",
       "sources": [
         {
-          "label": "Sound & Video Contractor press release",
-          "url": "https://www.svconline.com/the-wire/producer-and-mix-engineer-douglas-romanow"
+          "label": "gearpatrol.com",
+          "url": "https://www.gearpatrol.com/audio/focal-theva-loudspeakers-november-2026-sale/"
         }
       ]
     },
@@ -75,12 +79,12 @@
       "brand": "Monitor Audio",
       "category": "Speakers",
       "status": "checked",
-      "checkedAt": "2026-11-01",
-      "note": "Verified dated manufacturer award report; this does not establish market share or measured sales impact.",
+      "checkedAt": "2026-11-15",
+      "note": "Searched this brand and reviewed the cited source pages. Dated announcements, reviews or editorial coverage are separated from older/undated context; foreign coverage does not confirm Australian availability.",
       "sources": [
         {
-          "label": "Monitor Audio",
-          "url": "https://www.monitoraudio.com/en/stories/monitor-audio-group-wins-cedia-award/"
+          "label": "monitoraudio.com",
+          "url": "https://www.monitoraudio.com/en/stories/christmas-gift-guide-2026/"
         }
       ]
     },
@@ -88,12 +92,12 @@
       "brand": "Martin Logan",
       "category": "Speakers",
       "status": "checked",
-      "checkedAt": "2026-11-01",
-      "note": "Search and source review completed; the verified receiver announcement predates the reporting window and is retained only as context, not as new fortnightly news.",
+      "checkedAt": "2026-11-15",
+      "note": "Searched both spaced and MartinLogan brand spellings; reviewed the dated but old news archive and the undated current range page. Current range context is retained, without assigning a November launch date.",
       "sources": [
         {
-          "label": "HomeTheaterHifi press release",
-          "url": "https://hometheaterhifi.com/press-releases/martinlogan-introduces-the-usr51-high-performance-stealth-av-receiver-designed-for-modern-spaces/"
+          "label": "martinlogan.com",
+          "url": "https://www.martinlogan.com/category/our-speakers"
         }
       ]
     },
@@ -101,12 +105,12 @@
       "brand": "JBL",
       "category": "Speakers",
       "status": "checked",
-      "checkedAt": "2026-11-01",
-      "note": "Verified dated product coverage; future regional timing is not a confirmed Australian on-sale date.",
+      "checkedAt": "2026-11-15",
+      "note": "Searched this brand and reviewed the cited source pages. Dated announcements, reviews or editorial coverage are separated from older/undated context; foreign coverage does not confirm Australian availability.",
       "sources": [
         {
-          "label": "StereoNET",
-          "url": "https://www.stereonet.com/news/jbl-l150-classic-takes-retro-hi-fi-to-new-heights"
+          "label": "jblpro.com",
+          "url": "https://jblpro.com/en-US/news/jbl-professional-introduces-3-series-mkiii-powered-studio-monitors-and-subwoofer"
         }
       ]
     },
@@ -114,12 +118,12 @@
       "brand": "Arcam",
       "category": "Electronics",
       "status": "checked",
-      "checkedAt": "2026-11-01",
-      "note": "Searched current coverage and checked the official news index; no verified in-period launch is asserted, and the selected announcement remains older context.",
+      "checkedAt": "2026-11-15",
+      "note": "Searched this brand and reviewed the cited source pages. Dated announcements, reviews or editorial coverage are separated from older/undated context; foreign coverage does not confirm Australian availability.",
       "sources": [
         {
-          "label": "Arcam news index",
-          "url": "https://www.arcam.co.uk/news.htm"
+          "label": "whathifi.com",
+          "url": "https://www.whathifi.com/hi-fi/cd-players/what-hi-fi-awards-2026-four-superb-cd-players-with-outstanding-sound-quality-send-us-into-a-spin"
         }
       ]
     },
@@ -127,12 +131,12 @@
       "brand": "Hegel",
       "category": "Electronics",
       "status": "checked",
-      "checkedAt": "2026-11-01",
-      "note": "Reviewed the article, whose visible review date is October 2026 without a reliable day; classified as undated context rather than assigning a day from a relative timestamp.",
+      "checkedAt": "2026-11-15",
+      "note": "Searched this brand and reviewed the cited source page. The retained item is explicitly context, not a newly established product launch or a claim that no news exists.",
       "sources": [
         {
-          "label": "Soundnews review",
-          "url": "https://soundnews.net/reviews/amplifiers/hegel-h200-all-in-one-amplifier-review-the-hegel-sound-within-reach/"
+          "label": "noteworthyaudio.com",
+          "url": "https://www.noteworthyaudio.com/blogs/news/hegel-amplifiers-compared"
         }
       ]
     },
@@ -140,12 +144,12 @@
       "brand": "Eversolo",
       "category": "Electronics",
       "status": "checked",
-      "checkedAt": "2026-11-01",
-      "note": "Verified dated UK coverage; neither an in-period worldwide launch nor Australian availability is inferred.",
+      "checkedAt": "2026-11-15",
+      "note": "Searched this brand and reviewed the cited source pages. Dated announcements, reviews or editorial coverage are separated from older/undated context; foreign coverage does not confirm Australian availability.",
       "sources": [
         {
-          "label": "The Audiophile Man",
-          "url": "https://theaudiophileman.com/eversolo-flexes-its-muscles/"
+          "label": "blog.eversolo.com",
+          "url": "https://blog.eversolo.com/2026/11/eversolo-announces-new-distribution-partnership-with-emilai-in-japan/"
         }
       ]
     },
@@ -153,12 +157,12 @@
       "brand": "WiiM",
       "category": "Electronics",
       "status": "checked",
-      "checkedAt": "2026-11-01",
-      "note": "Verified first-party release notes; the release date is 28 October, distinct from the page's 29 October modification date.",
+      "checkedAt": "2026-11-15",
+      "note": "Searched this brand and reviewed the cited source pages. Dated announcements, reviews or editorial coverage are separated from older/undated context; foreign coverage does not confirm Australian availability.",
       "sources": [
         {
-          "label": "WiiM Ultra firmware release notes",
-          "url": "https://faq.wiimhome.com/en/support/solutions/articles/72000631650-wiim-ultra-firmware-release-notes"
+          "label": "faq.wiimhome.com",
+          "url": "https://faq.wiimhome.com/en/support/solutions/articles/72000639189-wiim-home-app-release-notes"
         }
       ]
     },
@@ -166,12 +170,12 @@
       "brand": "NAD",
       "category": "Electronics",
       "status": "checked",
-      "checkedAt": "2026-11-01",
-      "note": "Verified article and original press-release dates; manufacturer specifications are not independent listening-test findings.",
+      "checkedAt": "2026-11-15",
+      "note": "Searched this brand and reviewed the cited source pages. Dated announcements, reviews or editorial coverage are separated from older/undated context; foreign coverage does not confirm Australian availability.",
       "sources": [
         {
-          "label": "HomeTheaterHifi press release",
-          "url": "https://hometheaterhifi.com/press-releases/nad-expands-its-classic-series-with-the-c-359s-and-c-569-cd/"
+          "label": "nadelectronics.com",
+          "url": "https://nadelectronics.com/blogs/news/the-pleasure-of-listening-to-cds-with-the-nad-c-569"
         }
       ]
     },
@@ -179,12 +183,12 @@
       "brand": "Marantz",
       "category": "Electronics",
       "status": "checked",
-      "checkedAt": "2026-11-01",
-      "note": "Verified a pre-window show preview; the later exhibition dates are not used as the article publication date or proof of a new product launch.",
+      "checkedAt": "2026-11-15",
+      "note": "Searched this brand and reviewed the cited source pages. Dated announcements, reviews or editorial coverage are separated from older/undated context; foreign coverage does not confirm Australian availability.",
       "sources": [
         {
-          "label": "StereoNET",
-          "url": "https://www.stereonet.com/news/au-expo-marantz-and-bowers-wilkins-showcase-three-systems"
+          "label": "whathifi.com",
+          "url": "https://www.whathifi.com/tv-home-cinema/av-receivers/what-hi-fi-awards-2026-sony-fends-off-denon-and-marantz-stands-firm-on-our-award-winning-avrs-list"
         }
       ]
     },
@@ -192,12 +196,12 @@
       "brand": "Denon",
       "category": "Electronics",
       "status": "checked",
-      "checkedAt": "2026-11-01",
-      "note": "Verified dated review; reported listening impressions belong to one reviewer and are not measured consumer sentiment.",
+      "checkedAt": "2026-11-15",
+      "note": "Searched this brand and reviewed the cited source pages. Dated announcements, reviews or editorial coverage are separated from older/undated context; foreign coverage does not confirm Australian availability.",
       "sources": [
         {
-          "label": "Stuff review",
-          "url": "https://www.stuff.tv/features/the-gargantuan-denon-home-600-sounds-brilliant-but-i-dont-know-anybody-who-has-space-for-one/"
+          "label": "blog.son-video.com",
+          "url": "https://blog.son-video.com/en/2026/11/denon-dp-500bt-a-bluetooth-turntable-that-prioritises-simplicity-and-precision/"
         }
       ]
     },
@@ -205,12 +209,12 @@
       "brand": "Cambridge Audio",
       "category": "Electronics",
       "status": "checked",
-      "checkedAt": "2026-11-01",
-      "note": "Verified the original announcement one day before the reporting period; later coverage is not relabelled as a new launch.",
+      "checkedAt": "2026-11-15",
+      "note": "Searched this brand and reviewed the cited source pages. Dated announcements, reviews or editorial coverage are separated from older/undated context; foreign coverage does not confirm Australian availability.",
       "sources": [
         {
-          "label": "HomeTheaterHifi press release",
-          "url": "https://hometheaterhifi.com/press-releases/cambridge-audio-spira-the-player-any-vinyl-deserves/"
+          "label": "whathifi.com",
+          "url": "https://www.whathifi.com/speakers/hi-fi-speakers/cambridge-audio-brings-room-correction-to-its-l-r-x-and-l-r-m-speakers"
         }
       ]
     },
@@ -218,12 +222,12 @@
       "brand": "Moon Audio",
       "category": "Electronics",
       "status": "checked",
-      "checkedAt": "2026-11-01",
-      "note": "The fixed coverage label Moon Audio is interpreted as MOON by Simaudio, not the unrelated retailer; verified the dated manufacturer press release.",
+      "checkedAt": "2026-11-15",
+      "note": "The fixed coverage label is interpreted as MOON by Simaudio. Reviewed a dated retailer factory-tour account; this is not the unrelated retailer of the same name.",
       "sources": [
         {
-          "label": "HomeTheaterHifi / Simaudio press release",
-          "url": "https://hometheaterhifi.com/press-releases/introducing-the-moon-341-integrated-amplifier/"
+          "label": "pearlaudio.com",
+          "url": "https://pearlaudio.com/blogs/news/proudly-made-in-canada-a-factory-tour-of-simaudio"
         }
       ]
     },
@@ -231,12 +235,12 @@
       "brand": "Aurender",
       "category": "Electronics",
       "status": "checked",
-      "checkedAt": "2026-11-01",
-      "note": "Searched current coverage and checked the manufacturer page; exact product publication dates were unavailable, so these are context rather than dated announcements.",
+      "checkedAt": "2026-11-15",
+      "note": "Searched this brand and reviewed the cited source pages. Dated announcements, reviews or editorial coverage are separated from older/undated context; foreign coverage does not confirm Australian availability.",
       "sources": [
         {
-          "label": "Aurender",
-          "url": "https://aurender.com/"
+          "label": "futureaudiophile.com",
+          "url": "https://futureaudiophile.com/aurender-n20-network-transport-reviewed/"
         }
       ]
     },
@@ -244,12 +248,12 @@
       "brand": "Linn",
       "category": "Electronics",
       "status": "checked",
-      "checkedAt": "2026-11-01",
-      "note": "Verified the article's own 14 October date rather than the site's current-date header; retained as pre-window context.",
+      "checkedAt": "2026-11-15",
+      "note": "Searched this brand and reviewed the cited source pages. Dated announcements, reviews or editorial coverage are separated from older/undated context; foreign coverage does not confirm Australian availability.",
       "sources": [
         {
-          "label": "SoundStage! Australia",
-          "url": "https://www.soundstageaustralia.com/index.php/news/1050-linn-launches-343-loudspeaker"
+          "label": "theaudiophileman.com",
+          "url": "https://theaudiophileman.com/hifi-news-7-november-2026-video/"
         }
       ]
     },
@@ -257,12 +261,12 @@
       "brand": "Wilson Audio",
       "category": "High end",
       "status": "checked",
-      "checkedAt": "2026-11-01",
-      "note": "Verified dated show reporting; this is evidence of an exhibition system, not a local availability statement.",
+      "checkedAt": "2026-11-15",
+      "note": "Searched November coverage and reviewed the manufacturer's press-release index. Its listed entries have no verified publication dates; no precisely dated in-period development was established from those sources. This is not a claim of no news.",
       "sources": [
         {
-          "label": "StereoNET",
-          "url": "https://www.stereonet.com/news/warsaw-audio-video-show-2026-turns-up-the-volume"
+          "label": "wilsonaudio.com",
+          "url": "https://wilsonaudio.com/press-releases"
         }
       ]
     },
@@ -270,12 +274,12 @@
       "brand": "Gryphon Audio",
       "category": "High end",
       "status": "checked",
-      "checkedAt": "2026-11-01",
-      "note": "Searched current reporting and verified an older event preview; a scheduled event date is not a publication date or proof the event took place.",
+      "checkedAt": "2026-11-15",
+      "note": "Reviewed the show announcement, but article metadata and body dateline differ. Both dates are disclosed in the context item; publicationDate remains null.",
       "sources": [
         {
-          "label": "StereoNET event preview",
-          "url": "https://www.stereonet.com/events/gryphon-and-nordost-bring-live-sessions-to-sydney"
+          "label": "theabsolutesound.com",
+          "url": "https://www.theabsolutesound.com/articles/gryphon-and-command-performance-host-world-premieres-at-capitol-audiofest/"
         }
       ]
     },
@@ -283,12 +287,12 @@
       "brand": "Dan D'Agostino",
       "category": "High end",
       "status": "checked",
-      "checkedAt": "2026-11-01",
-      "note": "Verified the live article's own date and display description after resolving conflicting indexed metadata; no listening verdict is inferred.",
+      "checkedAt": "2026-11-15",
+      "note": "Searched this brand and reviewed the cited source page. The retained item is explicitly context, not a newly established product launch or a claim that no news exists.",
       "sources": [
         {
-          "label": "HifiClube show report",
-          "url": "https://www.hificlube.net/artigos/eventos/the-happening-the-haycock-hotel-mystery/the-happening-the-haycock-hotel-mystery-chapter-one-poirot-investigates/"
+          "label": "whathifi.com",
+          "url": "https://www.whathifi.com/hi-fi/stereo-amplifiers/dan-dagostinos-anniversary-amp-promises-a-new-level-of-refinement-and-control"
         }
       ]
     },
@@ -296,15 +300,11 @@
       "brand": "Boulder",
       "category": "High end",
       "status": "checked",
-      "checkedAt": "2026-11-01",
-      "note": "Searched current coverage and checked the official news index, which dates this article to 12 June; no 15–31 October entry was visible in that index, which is not proof of no news elsewhere.",
+      "checkedAt": "2026-11-15",
+      "note": "Searched current amplifier coverage and reviewed the manufacturer news index. The newest visible entry is dated 12 June 2026; no in-period announcement was verified from the reviewed pages. This is not an exhaustive no-news finding.",
       "sources": [
         {
-          "label": "Boulder Amplifiers",
-          "url": "https://boulderamp.com/boulder-launches-two-new-products-at-high-end-vienna-2026/"
-        },
-        {
-          "label": "Boulder news index",
+          "label": "boulderamp.com",
           "url": "https://boulderamp.com/news-events/"
         }
       ]
@@ -313,12 +313,12 @@
       "brand": "Magico",
       "category": "High end",
       "status": "checked",
-      "checkedAt": "2026-11-01",
-      "note": "Verified the original 8 October publication; recent recrawls and later commentary do not make this an in-period announcement.",
+      "checkedAt": "2026-11-15",
+      "note": "Searched November loudspeaker coverage and reviewed the manufacturer's news index, whose newest visible entry is A3 2027 PR dated 1 October 2026. Older index entries are not treated as new November announcements.",
       "sources": [
         {
-          "label": "hi-fi+",
-          "url": "https://hifiplus.com/articles/magico-is-proud-to-announce-the-a3-2027-loudspeaker/"
+          "label": "magicoaudio.com",
+          "url": "https://www.magicoaudio.com/news"
         }
       ]
     },
@@ -326,12 +326,12 @@
       "brand": "Estelon",
       "category": "High end",
       "status": "checked",
-      "checkedAt": "2026-11-01",
-      "note": "Verified dated show coverage; the brief page does not substantiate detailed specifications, Australian availability or a measured performance verdict.",
+      "checkedAt": "2026-11-15",
+      "note": "Searched this brand and reviewed the cited source pages. Dated announcements, reviews or editorial coverage are separated from older/undated context; foreign coverage does not confirm Australian availability.",
       "sources": [
         {
-          "label": "Stereophile",
-          "url": "https://www.stereophile.com/content/estelon-audio-video-show-warsaw-2026"
+          "label": "estelon.com",
+          "url": "https://estelon.com/forza-ultra-debut/"
         }
       ]
     },
@@ -339,12 +339,12 @@
       "brand": "Marten",
       "category": "High end",
       "status": "checked",
-      "checkedAt": "2026-11-01",
-      "note": "Verified original posting dates separately from 15 October modification dates; the selected Vienna report was originally published on 7 July and is context.",
+      "checkedAt": "2026-11-15",
+      "note": "Searched this brand and reviewed the cited source pages. Dated announcements, reviews or editorial coverage are separated from older/undated context; foreign coverage does not confirm Australian availability.",
       "sources": [
         {
-          "label": "Marten loudspeaker archive",
-          "url": "https://www.marten.se/tag/loudspeakers/"
+          "label": "marten.se",
+          "url": "https://www.marten.se/six-rooms-in-pariss-12th-arrondissement/"
         }
       ]
     },
@@ -352,12 +352,12 @@
       "brand": "YG Acoustics",
       "category": "High end",
       "status": "checked",
-      "checkedAt": "2026-11-01",
-      "note": "Searched current coverage and reviewed the official news page; no dated 15–31 October entry was visible there, which is not an exhaustive no-news finding.",
+      "checkedAt": "2026-11-15",
+      "note": "Searched this brand and reviewed the cited source pages. Dated announcements, reviews or editorial coverage are separated from older/undated context; foreign coverage does not confirm Australian availability.",
       "sources": [
         {
-          "label": "YG Acoustics news",
-          "url": "https://www.yg-acoustics.com/news/"
+          "label": "hifilounge.co.uk",
+          "url": "https://hifilounge.co.uk/new-yg-vesper-3-speaker-rel-reference-no-35-no-36-subwoofer-launch-event-november-28th/"
         }
       ]
     },
@@ -365,12 +365,20 @@
       "brand": "Vivid Audio",
       "category": "High end",
       "status": "checked",
-      "checkedAt": "2026-11-01",
-      "note": "Followed an October 2026 news listing through to the full review, which is from October 2023; the exact original day is unavailable, so publicationDate is null and the item is context.",
+      "checkedAt": "2026-11-15",
+      "note": "Reviewed the current product page, an older review dated 15 October 2023, and a library listing for the December 2026 Stereophile issue released 10 November. The full magazine review/award text was unavailable in the listing, so no new award verdict is inferred. Undated manufacturer context is retained.",
       "sources": [
         {
-          "label": "Enjoy the Music review",
-          "url": "https://www.enjoythemusic.com/magazine/equipment/1023/Vivid_Audio_Kaya_25_Floorstanding_Loudspeaker_Review.htm"
+          "label": "Vivid Audio product documentation",
+          "url": "https://vividaudio.com/loudspeaker/giya-g1s-cu/"
+        },
+        {
+          "label": "SoundStage! Ultra older review",
+          "url": "https://www.soundstagenetwork.com/ultra/index.php/equipment-menu/1206-vivid-audio-giya-g3-series-2-loudspeaker"
+        },
+        {
+          "label": "Library magazine listing; full review unavailable",
+          "url": "https://upenn.overdrive.com/media/13834544"
         }
       ]
     },
@@ -378,626 +386,446 @@
       "brand": "AudioQuest",
       "category": "Accessories",
       "status": "checked",
-      "checkedAt": "2026-11-01",
-      "note": "Verified the official event listing but no publication date; event dates alone do not establish a new announcement or prove a completed demonstration.",
+      "checkedAt": "2026-11-15",
+      "note": "Searched this brand and reviewed the cited source pages. Dated announcements, reviews or editorial coverage are separated from older/undated context; foreign coverage does not confirm Australian availability.",
       "sources": [
         {
-          "label": "AudioQuest events",
-          "url": "https://www.audioquest.com/pages/events"
+          "label": "audioquest.com",
+          "url": "https://www.audioquest.com/blogs/news-reviews/twittering-machines-gear-of-2026-dragonfly-copper"
         }
       ]
     }
   ],
   "items": [
     {
-      "id": "kef-coda-w-melbourne",
+      "id": "kef-xio-wireless-surround",
       "brand": "KEF",
-      "title": "Coda W and LS LUXE featured in Melbourne coverage",
-      "summary": "StereoNET's 18 October report identifies Coda W and LS LUXE as exhibited products and lists HDMI ARC, Bluetooth, USB-C and a phono stage for Coda W ([StereoNET](https://www.stereonet.com/news/au-expo-kef-coda-w-giveaway-winner-announced)).",
-      "implication": "Editorial suggestion: demonstrate television, phone and turntable use cases rather than presenting the product as streaming-only; confirm local stock independently.",
+      "title": "KEF describes XIO wireless-surround firmware update",
+      "summary": "KEF says the XIO update enables compatible rear speakers to receive surround channels wirelessly, using the KEF Connect app and a separately sold KW2 RX Receiver. Its announcement lists Coda W, LSX II and LSX II LT as compatible options. These are manufacturer statements, not independently tested results or confirmation of Australian stock.",
+      "implication": "Editorial suggestion: Build a compatibility-led surround demonstration and verify the receiver, firmware and supported speaker combination before proposing an upgrade.",
       "kind": "development",
-      "publicationDate": "2026-10-18",
-      "checkedAt": "2026-11-01",
+      "publicationDate": "2026-11-05",
+      "checkedAt": "2026-11-15",
       "sources": [
         {
-          "label": "StereoNET",
-          "url": "https://www.stereonet.com/news/au-expo-kef-coda-w-giveaway-winner-announced"
+          "label": "international.kef.com",
+          "url": "https://international.kef.com/blogs/news/xio-new-wireless-surround-update"
         }
       ]
     },
     {
-      "id": "sonos-android-web-services",
+      "id": "kef-ls-luxe-design-feature",
+      "brand": "KEF",
+      "title": "KEF publishes LS LUXE design and connectivity feature",
+      "summary": "KEF's manufacturer feature describes LS LUXE with a 12th-generation 6.5-inch Uni-Q driver with MAT and Velocity Control Technology. It lists Wi-Fi, AirPlay, Bluetooth 5.3 and HDMI eARC. This is a dated product feature; it does not by itself establish an Australian launch date or local availability.",
+      "implication": "Editorial suggestion: Prepare a music-and-TV demonstration focused on connectivity and room presentation, without treating manufacturer performance language as an independent finding.",
+      "kind": "development",
+      "publicationDate": "2026-11-11",
+      "checkedAt": "2026-11-15",
+      "sources": [
+        {
+          "label": "ap.kef.com",
+          "url": "https://ap.kef.com/blogs/news/the-art-of-sound-when-hifi-speakers-become-sculptural-objects"
+        }
+      ]
+    },
+    {
+      "id": "sonos-november-app-update",
       "brand": "Sonos",
-      "title": "Android update and web-app music-service management",
-      "summary": "Sonos staff announced Android version 27.2 with bug fixes and performance improvements, alongside the ability to add and remove music services through the web app, with a phased Android rollout ([Sonos staff release notice](https://en.community.sonos.com/product-updates/sonos-27-2-is-rolling-out-on-android-you-can-now-manage-music-services-from-the-web-app-6935079)).",
-      "implication": "Editorial suggestion: check the installed app version before demonstrations and offer a music-service setup walkthrough; do not promise immediate availability on every device.",
+      "title": "Sonos announces app EQ-shortcut update",
+      "summary": "A Sonos staff post announces iOS version 91.01.11 and Android version 91.01.7, with sub and surround levels added to the EQ shortcut. The post is timestamped 9 November 2026 at 21:26 UTC; its heading calls this the 10 November update. The publicationDate retains the displayed UTC posting date, rather than replacing it with the heading date.",
+      "implication": "Editorial suggestion: Check the installed app version and relevant controls on demonstration systems before presenting the feature; a staff announcement is not proof that every device has received the rollout.",
       "kind": "development",
-      "publicationDate": "2026-10-20",
-      "checkedAt": "2026-11-01",
+      "publicationDate": "2026-11-09",
+      "checkedAt": "2026-11-15",
       "sources": [
         {
-          "label": "Sonos staff release notice",
-          "url": "https://en.community.sonos.com/product-updates/sonos-27-2-is-rolling-out-on-android-you-can-now-manage-music-services-from-the-web-app-6935079"
+          "label": "en.community.sonos.com",
+          "url": "https://en.community.sonos.com/product-updates/10th-nov-2026-new-sonos-app-player-updates-now-available-6935200"
         }
       ]
     },
     {
-      "id": "bw-presto-music",
+      "id": "bowers-px8-s2-sponsored-context",
       "brand": "Bowers & Wilkins",
-      "title": "Presto Music joins the Music App",
-      "summary": "StereoNET reports Presto Music integration in the Bowers & Wilkins Music App for compatible products including Zeppelin, Formation and Panorama 3, subject to regional availability and device compatibility ([StereoNET](https://www.stereonet.com/news/bowers-wilkins-adds-presto-music-to-streaming-ecosystem)).",
-      "implication": "Editorial suggestion: offer a classical or jazz discovery demonstration after checking the exact device, subscription and Australian service availability.",
-      "kind": "development",
-      "publicationDate": "2026-10-29",
-      "checkedAt": "2026-11-01",
+      "title": "Px8 S2 sponsored coverage: product context",
+      "summary": "A CNN Underscored page sponsored by Bowers & Wilkins presents the Px8 S2 as over-ear noise-cancelling headphones. The page is advertising-led product coverage, not an independent review, and does not establish the model's original launch date.",
+      "implication": "Editorial suggestion: Distinguish sponsored claims from independent listening evidence when discussing headphone options.",
+      "kind": "context",
+      "publicationDate": "2026-11-05",
+      "checkedAt": "2026-11-15",
       "sources": [
         {
-          "label": "StereoNET",
-          "url": "https://www.stereonet.com/news/bowers-wilkins-adds-presto-music-to-streaming-ecosystem"
+          "label": "cnn.com",
+          "url": "https://www.cnn.com/cnn-underscored/electronics/bowers-wilkins-headphones-2026-11-05"
         }
       ]
     },
     {
-      "id": "klipsch-reference-signature-overview",
+      "id": "klipsch-stratos-headphones",
       "brand": "Klipsch",
-      "title": "Reference Signature lineup receives fresh coverage",
-      "summary": "Audio 2G's 15 October article outlines a six-model Reference Signature lineup spanning floorstanding, monitor, centre and effects speakers, with market timing described as Winter 2026 ([Audio 2G](https://audio-2g.com/en/klipsch-reference-signature-the-best-of-both-worlds-hi-fi-and-home-theater/)).",
-      "implication": "Editorial suggestion: map stereo and home-theatre upgrade paths, but obtain Australian supply dates before accepting a delivery-dependent order.",
+      "title": "What Hi-Fi? reports Stratos HP-2 and HP-3",
+      "summary": "What Hi-Fi? reports the closed-back Stratos HP-2 and semi-open-backed HP-3 wired headphones, both with two-way coaxial driver arrays and detachable 3.5mm and 4.4mm balanced cables. The article describes US availability as scheduled for December 2026, not as a confirmed Australian release.",
+      "implication": "Editorial suggestion: Discuss open-versus-closed design and connection requirements; verify Australian distribution and timing before making an availability promise.",
       "kind": "development",
-      "publicationDate": "2026-10-15",
-      "checkedAt": "2026-11-01",
+      "publicationDate": "2026-11-13",
+      "checkedAt": "2026-11-15",
       "sources": [
         {
-          "label": "Audio 2G",
-          "url": "https://audio-2g.com/en/klipsch-reference-signature-the-best-of-both-worlds-hi-fi-and-home-theater/"
+          "label": "whathifi.com",
+          "url": "https://www.whathifi.com/headphones/wired-headphones/klipsch-promises-stratospheric-sound-and-sky-high-comfort-from-its-latest-duo-of-high-end-wired-headphones"
         }
       ]
     },
     {
-      "id": "focal-immersive-monitor-case-study",
+      "id": "focal-theva-range-context",
       "brand": "Focal",
-      "title": "Published immersive-monitor installation example",
-      "summary": "A published studio case study describes a 7.1.4 Focal configuration using Twin6 ST6 for the front channels, Solo6 ST6 for surrounds and overheads, and a Sub12 subwoofer ([Sound & Video Contractor press release](https://www.svconline.com/the-wire/producer-and-mix-engineer-douglas-romanow)).",
-      "implication": "Editorial suggestion: use the example for professional monitoring and immersive-system training, without treating it as evidence of consumer-speaker demand or equivalent performance.",
-      "kind": "development",
-      "publicationDate": "2026-10-27",
-      "checkedAt": "2026-11-01",
+      "title": "Theva range receives fresh shopping coverage",
+      "summary": "Gear Patrol's affiliate-linked shopping article describes the Theva range as introduced in 2023 and comprising six models for stereo or home-theatre configurations. This is coverage of an existing range, not evidence of a new November product launch. Overseas promotional prices are not reproduced or treated as Australian offers.",
+      "implication": "Editorial suggestion: Use the range structure for system-planning conversations, not as evidence of Australian discounting or measured price sensitivity.",
+      "kind": "context",
+      "publicationDate": "2026-11-06",
+      "checkedAt": "2026-11-15",
       "sources": [
         {
-          "label": "Sound & Video Contractor press release",
-          "url": "https://www.svconline.com/the-wire/producer-and-mix-engineer-douglas-romanow"
+          "label": "gearpatrol.com",
+          "url": "https://www.gearpatrol.com/audio/focal-theva-loudspeakers-november-2026-sale/"
         }
       ]
     },
     {
-      "id": "monitor-audio-experience-centre-award",
+      "id": "monitor-audio-gift-guide",
       "brand": "Monitor Audio",
-      "title": "Experience Centre recognised by CEDIA",
-      "summary": "Monitor Audio reports that its Rayleigh Experience Centre, comprising The Lounge, Music Suite and The Cinema, received Excellence in Experience Centre Innovation at the 2026 CEDIA Smart Home Awards ([Monitor Audio](https://www.monitoraudio.com/en/stories/monitor-audio-group-wins-cedia-award/)).",
-      "implication": "Editorial suggestion: organise demonstrations by the customer's room and listening purpose rather than only by product price tiers.",
+      "title": "Monitor Audio publishes Christmas gift guide",
+      "summary": "Monitor Audio published a 2026 Christmas gift guide aimed at movie lovers, music enthusiasts and people interested in interiors. The verified article text supplies a seasonal editorial theme, not a new product specification or independent review.",
+      "implication": "Editorial suggestion: Organise public-facing demonstration ideas by music, movies and room design; do not infer purchase intent from a gift guide.",
       "kind": "development",
-      "publicationDate": "2026-10-28",
-      "checkedAt": "2026-11-01",
+      "publicationDate": "2026-11-06",
+      "checkedAt": "2026-11-15",
       "sources": [
         {
-          "label": "Monitor Audio",
-          "url": "https://www.monitoraudio.com/en/stories/monitor-audio-group-wins-cedia-award/"
+          "label": "monitoraudio.com",
+          "url": "https://www.monitoraudio.com/en/stories/christmas-gift-guide-2026/"
         }
       ]
     },
     {
-      "id": "martinlogan-usr51-context",
+      "id": "martinlogan-range-context",
       "brand": "Martin Logan",
-      "title": "Earlier context: compact USR51 receiver",
-      "summary": "The 8 October article reproduces a 7 October announcement of the slim 5.1-channel USR51 receiver with ARC Genesis and placement options including behind a television, in a shallow cabinet or in an in-wall media box ([HomeTheaterHifi press release](https://hometheaterhifi.com/press-releases/martinlogan-introduces-the-usr51-high-performance-stealth-av-receiver-designed-for-modern-spaces/)).",
-      "implication": "Editorial suggestion: discuss concealed-installation constraints and room correction with installers, subject to local availability and installation requirements.",
+      "title": "MartinLogan product-family context",
+      "summary": "MartinLogan's manufacturer category page groups its speakers into families including Masterpiece, ElectroMotion, Motion XT, Motion, Motion Discrete Cinema and Motion Foundation. It describes Motion Discrete Cinema as including soundbars and LCR speakers. No article publication date is displayed, so these are undated range facts, not November announcements.",
+      "implication": "Editorial suggestion: Clarify speaker format and installation requirements before drawing up a comparison.",
       "kind": "context",
-      "publicationDate": "2026-10-08",
-      "checkedAt": "2026-11-01",
+      "publicationDate": null,
+      "checkedAt": "2026-11-15",
       "sources": [
         {
-          "label": "HomeTheaterHifi press release",
-          "url": "https://hometheaterhifi.com/press-releases/martinlogan-introduces-the-usr51-high-performance-stealth-av-receiver-designed-for-modern-spaces/"
+          "label": "martinlogan.com",
+          "url": "https://www.martinlogan.com/category/our-speakers"
         }
       ]
     },
     {
-      "id": "jbl-l150-classic",
+      "id": "jbl-3-series-mkiii",
       "brand": "JBL",
-      "title": "L150 Classic announced with future regional availability",
-      "summary": "StereoNET describes the L150 Classic as a three-way floorstanding loudspeaker with walnut veneer and a black Quadrex grille, with production scheduled for December 2026 and regional availability expected in the first quarter of 2027 ([StereoNET](https://www.stereonet.com/news/jbl-l150-classic-takes-retro-hi-fi-to-new-heights)).",
-      "implication": "Editorial suggestion: qualify interest in large retro-styled speakers and room suitability; treat delivery dates as provisional and verify Australian allocation separately.",
+      "title": "JBL Professional announces 3 Series MkIII",
+      "summary": "JBL Professional announced the 305P MkIII, 306P MkIII and 308P MkIII powered studio monitors and the 310S MkIII powered subwoofer. Its release states that the full-range monitors offer four one-touch room controls with 81 corrective EQ combinations. These are manufacturer specifications for a professional-audio range, not independent performance measurements.",
+      "implication": "Editorial suggestion: Keep studio-monitor use cases separate from living-room hi-fi recommendations and confirm Australian supply rather than assuming a regional announcement guarantees local stock.",
       "kind": "development",
-      "publicationDate": "2026-10-28",
-      "checkedAt": "2026-11-01",
+      "publicationDate": "2026-11-02",
+      "checkedAt": "2026-11-15",
       "sources": [
         {
-          "label": "StereoNET",
-          "url": "https://www.stereonet.com/news/jbl-l150-classic-takes-retro-hi-fi-to-new-heights"
+          "label": "jblpro.com",
+          "url": "https://jblpro.com/en-US/news/jbl-professional-introduces-3-series-mkiii-powered-studio-monitors-and-subwoofer"
         }
       ]
     },
     {
-      "id": "arcam-radia-context",
+      "id": "arcam-cd-awards",
       "brand": "Arcam",
-      "title": "Earlier context: A50 Signature and CD25",
-      "summary": "Arcam's news index dates the A50 Signature integrated-amplifier and CD25 CD-player announcement to 4 June 2026 ([Arcam news index](https://www.arcam.co.uk/news.htm)).",
-      "implication": "Editorial suggestion: prepare a CD-plus-amplification demonstration and check present local product availability before proposing a package.",
-      "kind": "context",
-      "publicationDate": "2026-06-04",
-      "checkedAt": "2026-11-01",
+      "title": "Arcam CD5 and CD25 receive What Hi-Fi? awards coverage",
+      "summary": "What Hi-Fi?'s CD-player awards article identifies the Arcam CD5 and CD25 as award winners. The awards are that publication's editorial judgments, not measured Australian demand or market share.",
+      "implication": "Editorial suggestion: Use the attributed awards as an invitation to compare CD playback in a demonstration, not as proof of universal superiority.",
+      "kind": "development",
+      "publicationDate": "2026-11-11",
+      "checkedAt": "2026-11-15",
       "sources": [
         {
-          "label": "Arcam news index",
-          "url": "https://www.arcam.co.uk/news.htm"
+          "label": "whathifi.com",
+          "url": "https://www.whathifi.com/hi-fi/cd-players/what-hi-fi-awards-2026-four-superb-cd-players-with-outstanding-sound-quality-send-us-into-a-spin"
         }
       ]
     },
     {
-      "id": "hegel-h200-a200-context",
+      "id": "hegel-buying-guide-context",
       "brand": "Hegel",
-      "title": "Context: H200 versus A200 system roles",
-      "summary": "Soundnews describes the A200 as fully analogue and the H200 as adding a DAC, digital inputs, network streaming and USB-drive playback ([Soundnews review](https://soundnews.net/reviews/amplifiers/hegel-h200-all-in-one-amplifier-review-the-hegel-sound-within-reach/)).",
-      "implication": "Editorial suggestion: ask whether the listener wants to retain a separate digital source or simplify the system before comparing the two amplifier configurations.",
+      "title": "Hegel amplifier comparison: retailer context",
+      "summary": "A Noteworthy Audio retailer buying guide compares Hegel integrated amplifiers and describes the H150 as combining streaming, a DAC, a moving-magnet phono input and a headphone output. This is retailer-authored selection guidance, not an independent measurement or evidence of a new November launch.",
+      "implication": "Editorial suggestion: Use a source-and-input checklist to qualify an amplifier comparison, and confirm specifications against the selected model before recommending it.",
       "kind": "context",
-      "publicationDate": null,
-      "checkedAt": "2026-11-01",
+      "publicationDate": "2026-11-05",
+      "checkedAt": "2026-11-15",
       "sources": [
         {
-          "label": "Soundnews review",
-          "url": "https://soundnews.net/reviews/amplifiers/hegel-h200-all-in-one-amplifier-review-the-hegel-sound-within-reach/"
+          "label": "noteworthyaudio.com",
+          "url": "https://www.noteworthyaudio.com/blogs/news/hegel-amplifiers-compared"
         }
       ]
     },
     {
-      "id": "eversolo-amp-f8-uk-report",
+      "id": "eversolo-japan-distribution",
       "brand": "Eversolo",
-      "title": "AMP-F8 receives UK availability coverage",
-      "summary": "The Audiophile Man reports UK availability of the AMP-F8 Class AB power amplifier with balanced XLR and unbalanced RCA inputs ([The Audiophile Man](https://theaudiophileman.com/eversolo-flexes-its-muscles/)).",
-      "implication": "Editorial suggestion: demonstrate the role of a separate power amplifier alongside a streaming preamplifier, checking speaker matching and Australian availability first.",
+      "title": "Eversolo announces Japanese distribution partnership",
+      "summary": "Eversolo's manufacturer blog announces a partnership with Emilai for imports, distribution and after-sales support in Japan, effective 1 November 2026. The article displays 6/11/2026, its URL is in the November archive and its publication metadata gives 6 November. This is a Japan-specific distribution development; it says nothing about Australian distribution changes.",
+      "implication": "Editorial suggestion: Treat the announcement as overseas brand context only; do not infer Australian channel, warranty or stock changes.",
       "kind": "development",
-      "publicationDate": "2026-10-27",
-      "checkedAt": "2026-11-01",
+      "publicationDate": "2026-11-06",
+      "checkedAt": "2026-11-15",
       "sources": [
         {
-          "label": "The Audiophile Man",
-          "url": "https://theaudiophileman.com/eversolo-flexes-its-muscles/"
+          "label": "blog.eversolo.com",
+          "url": "https://blog.eversolo.com/2026/11/eversolo-announces-new-distribution-partnership-with-emilai-in-japan/"
         }
       ]
     },
     {
-      "id": "wiim-ultra-october-firmware",
+      "id": "wiim-home-3613",
       "brand": "WiiM",
-      "title": "Ultra firmware adds Presto Music and Input Scene",
-      "summary": "WiiM's 28 October firmware release 5.2.833832 adds Presto Music support and Input Scene, which applies saved group, volume and subwoofer settings when switching inputs, with rollout marked in progress ([WiiM Ultra firmware release notes](https://faq.wiimhome.com/en/support/solutions/articles/72000631650-wiim-ultra-firmware-release-notes)).",
-      "implication": "Editorial suggestion: update a demonstration unit when the release reaches it and show a television-to-music input change with deliberately chosen volume settings.",
+      "title": "WiiM Home 3.6.13 release notes",
+      "summary": "WiiM's release notes date version 3.6.13 to 7 November 2026. Listed changes include RoomFit timing alignment for WiiM Bar and WiiM Sub Pro, a High Quality section in WiiM Radio, and landscape Now Playing on iPad. The release notes say support for more products will roll out gradually; the page's 9 November modification date is not substituted for the release date.",
+      "implication": "Editorial suggestion: Check exact model and app-version compatibility before demonstrating RoomFit or promising support on another WiiM product.",
       "kind": "development",
-      "publicationDate": "2026-10-28",
-      "checkedAt": "2026-11-01",
+      "publicationDate": "2026-11-07",
+      "checkedAt": "2026-11-15",
       "sources": [
         {
-          "label": "WiiM Ultra firmware release notes",
-          "url": "https://faq.wiimhome.com/en/support/solutions/articles/72000631650-wiim-ultra-firmware-release-notes"
+          "label": "faq.wiimhome.com",
+          "url": "https://faq.wiimhome.com/en/support/solutions/articles/72000639189-wiim-home-app-release-notes"
         }
       ]
     },
     {
-      "id": "nad-c359s-c569",
+      "id": "nad-c569-feature",
       "brand": "NAD",
-      "title": "C 359S and C 569 CD expand the Classic Series",
-      "summary": "NAD's 15 October press release introduces the C 359S Class AB integrated amplifier with BluOS, HDMI eARC and phono inputs, alongside the C 569 CD player scheduled for late November availability ([HomeTheaterHifi press release](https://hometheaterhifi.com/press-releases/nad-expands-its-classic-series-with-the-c-359s-and-c-569-cd/)).",
-      "implication": "Editorial suggestion: build a television, streaming and physical-media demonstration, but verify local release dates instead of translating an overseas schedule into an Australian promise.",
+      "title": "NAD publishes C 569 CD-player feature",
+      "summary": "NAD's C 569 article lists an ESS Sabre DAC, QRONO d2a technology, CD-Text support and analogue and digital outputs. The displayed posting date is 12 November 2026; extraction metadata instead says 11 November, so the explicitly displayed article date is retained. This manufacturer feature is not independent proof of its claimed sound-quality benefits or an original launch date.",
+      "implication": "Editorial suggestion: Build a CD-listening demonstration around operation and system connections, keeping manufacturer technology claims clearly attributed.",
       "kind": "development",
-      "publicationDate": "2026-10-15",
-      "checkedAt": "2026-11-01",
+      "publicationDate": "2026-11-12",
+      "checkedAt": "2026-11-15",
       "sources": [
         {
-          "label": "HomeTheaterHifi press release",
-          "url": "https://hometheaterhifi.com/press-releases/nad-expands-its-classic-series-with-the-c-359s-and-c-569-cd/"
+          "label": "nadelectronics.com",
+          "url": "https://nadelectronics.com/blogs/news/the-pleasure-of-listening-to-cds-with-the-nad-c-569"
         }
       ]
     },
     {
-      "id": "marantz-mcr60n-context",
+      "id": "marantz-cinema30-award",
       "brand": "Marantz",
-      "title": "Earlier context: MCR 60n compact-system demonstration",
-      "summary": "StereoNET's 12 October Melbourne show preview describes the MCR 60n as combining amplification, CD playback, HEOS streaming, HDMI eARC and a moving-magnet phono stage ([StereoNET](https://www.stereonet.com/news/au-expo-marantz-and-bowers-wilkins-showcase-three-systems)).",
-      "implication": "Editorial suggestion: offer a compact-system demonstration that includes the customer's preferred physical and streamed sources.",
-      "kind": "context",
-      "publicationDate": "2026-10-12",
-      "checkedAt": "2026-11-01",
+      "title": "Cinema 30 retains What Hi-Fi? awards recognition",
+      "summary": "What Hi-Fi?'s home-cinema amplifier awards article identifies the Marantz Cinema 30 as a returning award winner for a third year. Its sound-quality assessments are the publication's opinions; the article is not a new-model announcement.",
+      "implication": "Editorial suggestion: Use the attributed award to support a home-cinema audition and confirm the intended speaker layout and installation requirements.",
+      "kind": "development",
+      "publicationDate": "2026-11-06",
+      "checkedAt": "2026-11-15",
       "sources": [
         {
-          "label": "StereoNET",
-          "url": "https://www.stereonet.com/news/au-expo-marantz-and-bowers-wilkins-showcase-three-systems"
+          "label": "whathifi.com",
+          "url": "https://www.whathifi.com/tv-home-cinema/av-receivers/what-hi-fi-awards-2026-sony-fends-off-denon-and-marantz-stands-firm-on-our-award-winning-avrs-list"
         }
       ]
     },
     {
-      "id": "denon-home600-review",
+      "id": "denon-dp500bt-coverage",
       "brand": "Denon",
-      "title": "Home 600 review highlights room matching",
-      "summary": "Stuff's reviewer praises much of the Home 600's sound while finding its size and bass output excessive for his small living room ([Stuff review](https://www.stuff.tv/features/the-gargantuan-denon-home-600-sounds-brilliant-but-i-dont-know-anybody-who-has-space-for-one/)).",
-      "implication": "Editorial suggestion: make room size, placement and bass preference part of the demonstration rather than automatically recommending the largest model.",
+      "title": "Son-Vidéo reports DP-500BT turntable features",
+      "summary": "Son-Vidéo's article describes the Denon DP-500BT as a belt-driven turntable with a switchable built-in phono preamp, Bluetooth and semi-automatic end-of-side tonearm lift and stop. These are product details reported by a retail publication, not independent performance measurements or confirmation of Australian availability.",
+      "implication": "Editorial suggestion: Explain the wired-phono and Bluetooth connection paths and the semi-automatic operation before recommending a system configuration.",
       "kind": "development",
-      "publicationDate": "2026-10-23",
-      "checkedAt": "2026-11-01",
+      "publicationDate": "2026-11-10",
+      "checkedAt": "2026-11-15",
       "sources": [
         {
-          "label": "Stuff review",
-          "url": "https://www.stuff.tv/features/the-gargantuan-denon-home-600-sounds-brilliant-but-i-dont-know-anybody-who-has-space-for-one/"
+          "label": "blog.son-video.com",
+          "url": "https://blog.son-video.com/en/2026/11/denon-dp-500bt-a-bluetooth-turntable-that-prioritises-simplicity-and-precision/"
         }
       ]
     },
     {
-      "id": "cambridge-spira-context",
+      "id": "cambridge-roommagic-update",
       "brand": "Cambridge Audio",
-      "title": "Earlier context: Spira turntable connectivity",
-      "summary": "Cambridge Audio's 14 October announcement describes the belt-drive Spira turntable with a pre-fitted Audio-Technica cartridge, bypassable phono stage and Bluetooth transmitter ([HomeTheaterHifi press release](https://hometheaterhifi.com/press-releases/cambridge-audio-spira-the-player-any-vinyl-deserves/)).",
-      "implication": "Editorial suggestion: compare wired and wireless installation paths and check cartridge alignment, tracking setup and downstream input requirements during demonstrations.",
-      "kind": "context",
-      "publicationDate": "2026-10-14",
-      "checkedAt": "2026-11-01",
+      "title": "RoomMagic announced for L/R X and L/R M",
+      "summary": "What Hi-Fi? reports Cambridge Audio's RoomMagic automatic room-correction feature for the L/R X and L/R M active speakers, delivered through a free StreamMagic app update. The article describes phone or tablet microphone measurements and correction targeted at low frequencies. It does not establish compatibility with every L/R model.",
+      "implication": "Editorial suggestion: Prepare a before-and-after room-correction demonstration on a confirmed supported model and verify the update is installed.",
+      "kind": "development",
+      "publicationDate": "2026-11-11",
+      "checkedAt": "2026-11-15",
       "sources": [
         {
-          "label": "HomeTheaterHifi press release",
-          "url": "https://hometheaterhifi.com/press-releases/cambridge-audio-spira-the-player-any-vinyl-deserves/"
+          "label": "whathifi.com",
+          "url": "https://www.whathifi.com/speakers/hi-fi-speakers/cambridge-audio-brings-room-correction-to-its-l-r-x-and-l-r-m-speakers"
         }
       ]
     },
     {
-      "id": "moon-341-analogue-amplifier",
+      "id": "moon-factory-tour",
       "brand": "Moon Audio",
-      "title": "MOON 341 focuses on analogue amplification",
-      "summary": "Simaudio's 15 October announcement identifies the MOON 341 as a pure analogue integrated amplifier with a balanced preamplifier, four RCA inputs including phono, and one balanced XLR input ([HomeTheaterHifi / Simaudio press release](https://hometheaterhifi.com/press-releases/introducing-the-moon-341-integrated-amplifier/)).",
-      "implication": "Editorial suggestion: pair the amplifier with an explicitly chosen external digital source when required, rather than presenting it as an all-in-one streamer.",
+      "title": "New retailer account of MOON manufacturing",
+      "summary": "Pearl Audio published a factory-tour account describing MOON electronics being assembled in-house at Simaudio in Boucherville, Quebec, using manual work and automated circuit-board equipment. The account also describes testing and quality control. It is a retailer's report, not an independent manufacturing audit; the fixed feed label Moon Audio refers to MOON by Simaudio.",
+      "implication": "Editorial suggestion: Use attributed manufacturing and serviceability questions in a brand discussion, without turning a tour account into an audited quality claim.",
       "kind": "development",
-      "publicationDate": "2026-10-15",
-      "checkedAt": "2026-11-01",
+      "publicationDate": "2026-11-10",
+      "checkedAt": "2026-11-15",
       "sources": [
         {
-          "label": "HomeTheaterHifi / Simaudio press release",
-          "url": "https://hometheaterhifi.com/press-releases/introducing-the-moon-341-integrated-amplifier/"
+          "label": "pearlaudio.com",
+          "url": "https://pearlaudio.com/blogs/news/proudly-made-in-canada-a-factory-tour-of-simaudio"
         }
       ]
     },
     {
-      "id": "aurender-source-network-context",
+      "id": "aurender-n20-review",
       "brand": "Aurender",
-      "title": "Undated context: N50 server and NH10 network hub",
-      "summary": "Aurender's homepage identifies the N50 as a music server and the NH10 as an audiophile-grade network hub ([Aurender](https://aurender.com/)).",
-      "implication": "Editorial suggestion: explain source and network roles separately and use controlled comparisons for claimed sonic improvements; product marketing alone is not measurement evidence.",
-      "kind": "context",
-      "publicationDate": null,
-      "checkedAt": "2026-11-01",
+      "title": "Future Audiophile publishes N20 review",
+      "summary": "Future Audiophile published an Aurender N20 review describing a network transport and music server without a built-in DAC or analogue outputs. The review notes two user-installable drive bays and a word-clock input. Listening impressions are the reviewer's subjective assessments; this is a new review of a product, not proof of a new launch.",
+      "implication": "Editorial suggestion: Explain the need for an external DAC and distinguish a digital transport from an all-in-one streamer.",
+      "kind": "development",
+      "publicationDate": "2026-11-02",
+      "checkedAt": "2026-11-15",
       "sources": [
         {
-          "label": "Aurender",
-          "url": "https://aurender.com/"
+          "label": "futureaudiophile.com",
+          "url": "https://futureaudiophile.com/aurender-n20-network-transport-reviewed/"
         }
       ]
     },
     {
-      "id": "linn-343-context",
+      "id": "linn-343-news-feature",
       "brand": "Linn",
-      "title": "Earlier context: 343 system configurations",
-      "summary": "SoundStage! Australia's 14 October report describes the Linn 343 in Exakt Integrated and Passive With Active Bass configurations ([SoundStage! Australia](https://www.soundstageaustralia.com/index.php/news/1050-linn-launches-343-loudspeaker)).",
-      "implication": "Editorial suggestion: clarify which existing electronics the listener wants to retain before comparing the two system architectures.",
-      "kind": "context",
-      "publicationDate": "2026-10-14",
-      "checkedAt": "2026-11-01",
-      "sources": [
-        {
-          "label": "SoundStage! Australia",
-          "url": "https://www.soundstageaustralia.com/index.php/news/1050-linn-launches-343-loudspeaker"
-        }
-      ]
-    },
-    {
-      "id": "wilson-autobiography-warsaw",
-      "brand": "Wilson Audio",
-      "title": "Autobiography reported in Warsaw public demonstration",
-      "summary": "StereoNET's 24 October show report describes the public demonstration of Wilson Audio Autobiography loudspeakers with a dCS Varèse source, Ubiq amplification and two Wilson Audio Subsonic subwoofers ([StereoNET](https://www.stereonet.com/news/warsaw-audio-video-show-2026-turns-up-the-volume)).",
-      "implication": "Editorial suggestion: use the show report to discuss complete-system design and audition planning, not to imply local stock or equivalent performance from an unrelated system.",
+      "title": "Linn 343 appears in dated audio-news feature",
+      "summary": "The Audiophile Man's 7 November video-news page identifies Linn's 343 speakers among the launches it covers. The accessible page does not provide technical specifications or a verified Australian availability schedule, so neither is inferred.",
+      "implication": "Editorial suggestion: Use the coverage as a research lead and obtain model documentation and Australian timing before giving detailed product advice.",
       "kind": "development",
-      "publicationDate": "2026-10-24",
-      "checkedAt": "2026-11-01",
+      "publicationDate": "2026-11-07",
+      "checkedAt": "2026-11-15",
       "sources": [
         {
-          "label": "StereoNET",
-          "url": "https://www.stereonet.com/news/warsaw-audio-video-show-2026-turns-up-the-volume"
+          "label": "theaudiophileman.com",
+          "url": "https://theaudiophileman.com/hifi-news-7-november-2026-video/"
         }
       ]
     },
     {
-      "id": "gryphon-sydney-preview-context",
+      "id": "gryphon-capitol-announcement-context",
       "brand": "Gryphon Audio",
-      "title": "Earlier context: Sydney demonstration preview",
-      "summary": "StereoNET's 25 September preview scheduled a Gryphon and Nordost listening event for 23 October without identifying specific Gryphon models ([StereoNET event preview](https://www.stereonet.com/events/gryphon-and-nordost-bring-live-sessions-to-sydney)).",
-      "implication": "Editorial suggestion: use listening sessions to explain amplification and system matching, while verifying the actual demonstration equipment separately.",
+      "title": "Helios and Hyperion show announcement: date conflict retained",
+      "summary": "The Absolute Sound carries a Gryphon announcement describing a North American show debut for products including the Helios preamplifier and Hyperion Class-A power amplifier. Page metadata gives 6 November 2026 while the announcement body is datelined 13 November 2026. Because the article publication date is unresolved, this is context with publicationDate null, not a precisely dated development or confirmation the demonstration occurred.",
+      "implication": "Editorial suggestion: Track the announced components and seek direct product documentation; do not infer Australian availability from a North American show notice.",
       "kind": "context",
-      "publicationDate": "2026-09-25",
-      "checkedAt": "2026-11-01",
+      "publicationDate": null,
+      "checkedAt": "2026-11-15",
       "sources": [
         {
-          "label": "StereoNET event preview",
-          "url": "https://www.stereonet.com/events/gryphon-and-nordost-bring-live-sessions-to-sydney"
+          "label": "theabsolutesound.com",
+          "url": "https://www.theabsolutesound.com/articles/gryphon-and-command-performance-host-world-premieres-at-capitol-audiofest/"
         }
       ]
     },
     {
-      "id": "dagostino-relentless-static-display",
+      "id": "dagostino-momentum-z-context",
       "brand": "Dan D'Agostino",
-      "title": "Relentless amplifiers shown at The Happening",
-      "summary": "HifiClube's 21 October report of The Happening identifies Dan D'Agostino Relentless mono amplifiers as being on static display rather than available to hear ([HifiClube show report](https://www.hificlube.net/artigos/eventos/the-happening-the-haycock-hotel-mystery/the-happening-the-haycock-hotel-mystery-chapter-one-poirot-investigates/)).",
-      "implication": "Editorial suggestion: distinguish an exhibition appearance from a listening review and arrange an actual audition before making sound-quality comparisons.",
-      "kind": "development",
-      "publicationDate": "2026-10-21",
-      "checkedAt": "2026-11-01",
-      "sources": [
-        {
-          "label": "HifiClube show report",
-          "url": "https://www.hificlube.net/artigos/eventos/the-happening-the-haycock-hotel-mystery/the-happening-the-haycock-hotel-mystery-chapter-one-poirot-investigates/"
-        }
-      ]
-    },
-    {
-      "id": "boulder-808-851-context",
-      "brand": "Boulder",
-      "title": "Earlier context: 808 and 851 product introductions",
-      "summary": "Boulder's High End Vienna article introduces the 808 Phono Preamplifier and 851 Mono Power Amplifier ([Boulder Amplifiers](https://boulderamp.com/boulder-launches-two-new-products-at-high-end-vienna-2026/)).",
-      "implication": "Editorial suggestion: keep phono-stage and amplification upgrade discussions distinct and check present supply and system compatibility before a proposal.",
+      "title": "Momentum Z announcement retained as February context",
+      "summary": "What Hi-Fi?'s February article describes the Momentum Z monoblock amplifier with a Kinetic Drive Regulator power supply and Ethernet access to performance data. The article is dated 5 February 2026, not this reporting period, and its performance descriptions are manufacturer claims rather than independent tests.",
+      "implication": "Editorial suggestion: Use it only as background when discussing amplifier design; do not present it as a November launch.",
       "kind": "context",
-      "publicationDate": "2026-06-12",
-      "checkedAt": "2026-11-01",
+      "publicationDate": "2026-02-05",
+      "checkedAt": "2026-11-15",
       "sources": [
         {
-          "label": "Boulder Amplifiers",
-          "url": "https://boulderamp.com/boulder-launches-two-new-products-at-high-end-vienna-2026/"
-        },
-        {
-          "label": "Boulder news index (article date)",
-          "url": "https://boulderamp.com/news-events/"
+          "label": "whathifi.com",
+          "url": "https://www.whathifi.com/hi-fi/stereo-amplifiers/dan-dagostinos-anniversary-amp-promises-a-new-level-of-refinement-and-control"
         }
       ]
     },
     {
-      "id": "magico-a3-2027-context",
-      "brand": "Magico",
-      "title": "Earlier context: A3 2027",
-      "summary": "The 8 October release describes Magico's A3 2027 as a three-way, four-driver floorstanding loudspeaker with estimated shipment in the first quarter of 2027 ([hi-fi+](https://hifiplus.com/articles/magico-is-proud-to-announce-the-a3-2027-loudspeaker/)).",
-      "implication": "Editorial suggestion: discuss room and amplification requirements ahead of any audition, making clear that delivery expectations and Australian availability need confirmation.",
-      "kind": "context",
-      "publicationDate": "2026-10-08",
-      "checkedAt": "2026-11-01",
-      "sources": [
-        {
-          "label": "hi-fi+",
-          "url": "https://hifiplus.com/articles/magico-is-proud-to-announce-the-a3-2027-loudspeaker/"
-        }
-      ]
-    },
-    {
-      "id": "estelon-forza-ultra-warsaw",
+      "id": "estelon-forza-ultra-show-report",
       "brand": "Estelon",
-      "title": "Forza Ultra featured in Warsaw interview",
-      "summary": "Stereophile's 24 October Warsaw show report features a discussion with Estelon's chief designer about the Forza Ultra loudspeaker ([Stereophile](https://www.stereophile.com/content/estelon-audio-video-show-warsaw-2026)).",
-      "implication": "Editorial suggestion: use the interview as an introduction to the model, obtaining verified specifications and local demonstration arrangements separately.",
+      "title": "Estelon publishes retrospective Forza Ultra debut report",
+      "summary": "Estelon's 3 November article reports Forza Ultra presentations at the Dutch Audio Event on 10–11 October, Warsaw on 23–25 October and Luxembourg on 24–25 October 2026. It describes new Accuton drivers, a redesigned crossover and Stillpoints Ultra SS V2 isolation. This is a November manufacturer report about October events, not a claim that the debut took place in November.",
+      "implication": "Editorial suggestion: Use the dated report for design discussion while keeping event dates and publication dates distinct.",
       "kind": "development",
-      "publicationDate": "2026-10-24",
-      "checkedAt": "2026-11-01",
+      "publicationDate": "2026-11-03",
+      "checkedAt": "2026-11-15",
       "sources": [
         {
-          "label": "Stereophile",
-          "url": "https://www.stereophile.com/content/estelon-audio-video-show-warsaw-2026"
+          "label": "estelon.com",
+          "url": "https://estelon.com/forza-ultra-debut/"
         }
       ]
     },
     {
-      "id": "marten-dexter-context",
+      "id": "marten-listening-profile",
       "brand": "Marten",
-      "title": "Earlier context: Dexter demonstration formats",
-      "summary": "Marten's Vienna report describes live demonstrations of Dexter Quintet and Dexter Duo, with Dexter Quartet and Dexter Trio on static display ([Marten loudspeaker archive](https://www.marten.se/tag/loudspeakers/)).",
-      "implication": "Editorial suggestion: distinguish which models were heard from those merely displayed and prepare an audition plan around room size and system requirements.",
-      "kind": "context",
-      "publicationDate": "2026-07-07",
-      "checkedAt": "2026-11-01",
+      "title": "Marten profile discusses demonstration practice",
+      "summary": "Marten's published listening-room profile describes using listeners' own recordings and considering room layout and placement during loudspeaker demonstrations. These are practices reported in a manufacturer-published profile, not evidence of sales outcomes or measured customer preferences.",
+      "implication": "Editorial suggestion: Invite listeners to bring familiar recordings and make room setup explicit during demonstrations.",
+      "kind": "development",
+      "publicationDate": "2026-11-13",
+      "checkedAt": "2026-11-15",
       "sources": [
         {
-          "label": "Marten loudspeaker archive",
-          "url": "https://www.marten.se/tag/loudspeakers/"
+          "label": "marten.se",
+          "url": "https://www.marten.se/six-rooms-in-pariss-12th-arrondissement/"
         }
       ]
     },
     {
-      "id": "yg-vesper-context",
+      "id": "yg-vesper-future-event",
       "brand": "YG Acoustics",
-      "title": "Earlier context: Vesper in the Reference range",
-      "summary": "YG Acoustics' 11 September news entry describes Vesper as a three-way loudspeaker joining the Reference range directly above Carmel ([YG Acoustics news](https://www.yg-acoustics.com/news/)).",
-      "implication": "Editorial suggestion: explain the range position without inferring superiority for every room, then arrange a matched audition and verify local availability.",
-      "kind": "context",
-      "publicationDate": "2026-09-11",
-      "checkedAt": "2026-11-01",
+      "title": "Dated UK notice schedules Vesper 3 demonstration",
+      "summary": "A HiFi Lounge article published on 9 November announces a Vesper 3 demonstration for 28 November 2026. The notice is prospective UK retailer coverage: it is not evidence the event has occurred, a global launch date, or an Australian availability statement. Performance expectations in the article are promotional opinions.",
+      "implication": "Editorial suggestion: Use the notice as a product-research lead and verify local specifications and availability independently before offering an audition.",
+      "kind": "development",
+      "publicationDate": "2026-11-09",
+      "checkedAt": "2026-11-15",
       "sources": [
         {
-          "label": "YG Acoustics news",
-          "url": "https://www.yg-acoustics.com/news/"
+          "label": "hifilounge.co.uk",
+          "url": "https://hifilounge.co.uk/new-yg-vesper-3-speaker-rel-reference-no-35-no-36-subwoofer-launch-event-november-28th/"
         }
       ]
     },
     {
-      "id": "vivid-kaya25-older-review",
+      "id": "vivid-giya-cu-context",
       "brand": "Vivid Audio",
-      "title": "Older review context: Kaya 25",
-      "summary": "The October 2023 Kaya 25 review describes a glass-reinforced composite cabinet and six spikes between the plinth and floor ([Enjoy the Music review](https://www.enjoythemusic.com/magazine/equipment/1023/Vivid_Audio_Kaya_25_Floorstanding_Loudspeaker_Review.htm)).",
-      "implication": "Editorial suggestion: include stable placement and floor protection in a demonstration checklist, treating older listening impressions as context rather than fresh evidence of demand.",
+      "title": "GIYA G1 Spirit Cu manufacturer context",
+      "summary": "Vivid Audio's product page specifies the GIYA G1 Spirit Cu as a four-way, five-driver loudspeaker with a glass-reinforced, balsa-cored sandwich-composite cabinet. The visible product page has no explicit article date; extraction metadata alone is not treated as a launch date. Manufacturer specifications are not independent listening findings.",
+      "implication": "Editorial suggestion: Discuss cabinet construction and system format using manufacturer documentation, without describing an undated page as a new announcement.",
       "kind": "context",
       "publicationDate": null,
-      "checkedAt": "2026-11-01",
+      "checkedAt": "2026-11-15",
       "sources": [
         {
-          "label": "Enjoy the Music review",
-          "url": "https://www.enjoythemusic.com/magazine/equipment/1023/Vivid_Audio_Kaya_25_Floorstanding_Loudspeaker_Review.htm"
+          "label": "Vivid Audio product documentation",
+          "url": "https://vividaudio.com/loudspeaker/giya-g1s-cu/"
         }
       ]
     },
     {
-      "id": "audioquest-toronto-system-context",
+      "id": "audioquest-dragonfly-recognition",
       "brand": "AudioQuest",
-      "title": "Undated event context: Toronto system examples",
-      "summary": "AudioQuest's events page lists its participation at Toronto Audiofest on 16–18 October 2026 with products including PowerQuest 909 and Niagara 5000 power conditioners ([AudioQuest events](https://www.audioquest.com/pages/events)).",
-      "implication": "Editorial suggestion: discuss power distribution, cable routing and connection requirements as part of a whole-system review, without promising unmeasured audible benefits.",
-      "kind": "context",
-      "publicationDate": null,
-      "checkedAt": "2026-11-01",
+      "title": "AudioQuest reports DragonFly Copper recognition",
+      "summary": "AudioQuest's post says DragonFly Copper appears among Twittering Machines' Favorite Gear of 2026. This is the manufacturer's account of editorial recognition, not the independently inspected award list or a measured market-wide rating.",
+      "implication": "Editorial suggestion: Attribute the recognition to the manufacturer report and use it as an invitation to listen rather than a comparative performance guarantee.",
+      "kind": "development",
+      "publicationDate": "2026-11-05",
+      "checkedAt": "2026-11-15",
       "sources": [
         {
-          "label": "AudioQuest events",
-          "url": "https://www.audioquest.com/pages/events"
-        }
-      ]
-    },
-    {
-      "id": "kef-crestron-home-drivers",
-      "brand": "KEF",
-      "title": "Earlier context: certified KEF drivers for Crestron Home",
-      "summary": "KEF announced certified control drivers distributed through the Crestron Driver Portal, allowing KEF loudspeakers to be discovered, configured and controlled within Crestron Home projects. The announcement said the drivers would be available to integrators in October 2026.",
-      "implication": "Custom-install conversations can reference native Crestron Home support for KEF, but Australian integrators should confirm driver availability and supported models in the Crestron Driver Portal before quoting.",
-      "kind": "context",
-      "publicationDate": "2026-08-25",
-      "checkedAt": "2026-11-03",
-      "sources": [
-        {
-          "label": "CE Pro: KEF Announces Official Control Drivers for Crestron Home",
-          "url": "https://www.cepro.com/news/kef-announces-official-control-drivers-for-crestron-home/628224/"
-        },
-        {
-          "label": "Residential Systems: Certified KEF Drivers Now Available Through the Crestron Driver Portal",
-          "url": "https://www.residentialsystems.com/tag/crestron-home"
-        }
-      ]
-    },
-    {
-      "id": "kef-ls-luxe-australia",
-      "brand": "KEF",
-      "title": "Earlier context: LS LUXE on sale in Australia at $6,375 a pair",
-      "summary": "KEF's LS LUXE active wireless system, designed with Ross Lovegrove, has been available in Australia since 30 July 2026 through au.kef.com and authorised KEF retailers at $6,375 a pair. Matching S-LUXE floor stands are listed at $1,230.",
-      "implication": "LS LUXE suits design-led customers wanting a complete system without separate amplification; quote current KEF Australia pricing and finish availability rather than launch-period figures.",
-      "kind": "context",
-      "publicationDate": null,
-      "checkedAt": "2026-11-03",
-      "sources": [
-        {
-          "label": "KEF Australia: LS LUXE product page",
-          "url": "https://au.kef.com/products/ls-luxe"
-        },
-        {
-          "label": "GadgetGuy: KEF LS LUXE: Ross Lovegrove speakers hit Australia",
-          "url": "https://www.gadgetguy.com.au/kef-ls-luxe-wireless-speakers-now-on-sale-in-australia"
-        }
-      ]
-    },
-    {
-      "id": "bw-800-d5-availability",
-      "brand": "Bowers & Wilkins",
-      "title": "Earlier context: 800 Series Diamond D5 on sale from 9 September",
-      "summary": "Bowers & Wilkins announced the seven-model 800 Series Diamond D5 range on 4 June 2026 at HIGH END Vienna, with availability from 9 September. Man of Many reports Australian pricing from AUD 19,900 per pair for the 805 D5 to AUD 84,900 per pair for the 801 D5.",
-      "implication": "Expect flagship comparison questions in premium two-channel conversations; verify local stock and current pricing with the Australian distributor before quoting.",
-      "kind": "context",
-      "publicationDate": "2026-06-04",
-      "checkedAt": "2026-11-03",
-      "sources": [
-        {
-          "label": "HARMAN: 60 Years In The Making: Bowers & Wilkins 800 Series Diamond D5",
-          "url": "https://news.harman.com/releases/60-years-in-the-making-bowers-wilkins-800-series-diamond-d5"
-        },
-        {
-          "label": "Man of Many: Bowers & Wilkins 800 Series Diamond D5",
-          "url": "https://manofmany.com/tech/bowers-wilkins-800-series-diamond-d5"
-        }
-      ]
-    },
-    {
-      "id": "focal-diva-alta-utopia",
-      "brand": "Focal",
-      "title": "Earlier context: Diva Alta Utopia active flagship at US$210,000 a pair",
-      "summary": "Focal's Diva Alta Utopia is a four-way active wireless floorstander with built-in Naim amplification, streaming, DAC and DSP, and a new PRISM tweeter. The press release lists availability from August 2026 through the Focal Powered by Naim network at US$210,000 a pair; eCoustics reports a 17 June launch.",
-      "implication": "Useful as a reference point for how far all-in-one active hi-fi now extends; overseas pricing does not establish Australian pricing or availability.",
-      "kind": "context",
-      "publicationDate": null,
-      "checkedAt": "2026-11-03",
-      "sources": [
-        {
-          "label": "HomeTheaterHifi: Focal Unveils Diva Alta Utopia",
-          "url": "https://hometheaterhifi.com/press-releases/focal-unveils-diva-alta-utopia/"
-        },
-        {
-          "label": "eCoustics: Focal and Naim at Audio Advice Live 2026",
-          "url": "https://www.ecoustics.com/news/focal-naim-audio-advice-live-2026/"
-        }
-      ]
-    },
-    {
-      "id": "klipsch-rp3-klipschorn-80th",
-      "brand": "Klipsch",
-      "title": "Earlier context: Reference Premiere III and 80th Anniversary Klipschorn",
-      "summary": "Klipsch announced the nine-model Reference Premiere III Series on 7 August 2026, with all models due in October. Separately, the Limited Edition 80th Anniversary Klipschorn, announced 4 June 2026, is limited to 280 pairs worldwide; Best of High End reports US$24,998 per pair including the Heritage Active Crossover.",
-      "implication": "Home theatre and heritage-horn enquiries may increase; confirm Australian timing and pricing locally before quoting either range.",
-      "kind": "context",
-      "publicationDate": "2026-08-07",
-      "checkedAt": "2026-11-03",
-      "sources": [
-        {
-          "label": "Klipsch: Klipsch Redefines Reference Premiere Series",
-          "url": "https://www.klipsch.com/news/klipsch-redefines-reference-premiere-series/"
-        },
-        {
-          "label": "Klipsch: Limited Edition Two-Way Klipschorn announcement",
-          "url": "https://www.klipsch.com/news/80-years-of-legendary-sound-klipsch-unlocks-the-vault-to-release-limited-edition-two-way-klipschorn/"
-        },
-        {
-          "label": "Best of High End: 80th Anniversary Klipschorn",
-          "url": "https://bestofhighend.com/klipsch-limited-edition-80th-anniversary-klipschorn/"
-        }
-      ]
-    },
-    {
-      "id": "sonos-beam-ultra-ace-ultra",
-      "brand": "Sonos",
-      "title": "Earlier context: Beam Ultra, Ace Ultra and Sonos 27",
-      "summary": "Sonos introduced the Beam Ultra soundbar (7.1.2 Dolby Atmos) and Ace Ultra headphones on 1 September 2026 alongside its Sonos 27 software platform, with general availability on 29 September. EFTM lists Australian pricing of AUD 1,099 and AUD 699 respectively.",
-      "implication": "Mainstream multi-room shoppers will hear Sonos ecosystem and AI messaging; position specialist systems on sound quality and system design rather than feature-matching.",
-      "kind": "context",
-      "publicationDate": "2026-09-01",
-      "checkedAt": "2026-11-03",
-      "sources": [
-        {
-          "label": "Sonos Newsroom: Sonos Welcomes Beam Ultra and Sonos Ace Ultra to its System",
-          "url": "https://newsroom.sonos.com/269788-sonos-welcomes-beam-ultra-and-sonos-ace-ultra-to-its-system/"
-        },
-        {
-          "label": "EFTM: Sonos expands its personal and home audio range",
-          "url": "https://eftm.com/2026/09/sonos-expands-its-personal-and-home-audio-range-alongside-an-update-to-its-operating-system-280508"
-        }
-      ]
-    },
-    {
-      "id": "sonus-faber-olympica-g3",
-      "brand": "Sonus faber",
-      "title": "Earlier context: Olympica G3 five-model collection",
-      "summary": "Sonus faber's third-generation Olympica G3 collection comprises five models (Olympica I, III and V, Center and Wall) using Suprema-derived Camelia midrange technology. eCoustics lists US pricing from US$13,000 per pair for Olympica I to US$30,000 per pair for Olympica V.",
-      "implication": "A further premium two-channel option customers may cross-shop; compare on system fit and room rather than headline price, and confirm Australian pricing locally.",
-      "kind": "context",
-      "publicationDate": "2026-09-16",
-      "checkedAt": "2026-11-03",
-      "sources": [
-        {
-          "label": "Son-Vidéo blog: Sonus faber Olympica G3",
-          "url": "https://blog.son-video.com/en/2026/09/sonus-faber-olympica-g3-the-prestigious-italian-range-reimagined"
-        },
-        {
-          "label": "eCoustics: Sonus faber Olympica G3",
-          "url": "https://www.ecoustics.com/products/sonus-faber-olympica-g3/"
+          "label": "audioquest.com",
+          "url": "https://www.audioquest.com/blogs/news-reviews/twittering-machines-gear-of-2026-dragonfly-copper"
         }
       ]
     }
@@ -1006,51 +834,51 @@
     {
       "id": "metric-0",
       "name": "RBA cash rate",
-      "note": "Unavailable for publication: the finance workflow supplied latest observations but not dated release-level source evidence required by this feed; no value or direction-of-change claim is published.",
+      "note": "Unavailable for publication: finance snapshot and history were queried, but the returned data did not establish both a dated official release and a release-level source URL. History was restricted through 14 November; later-dated snapshot reference periods were excluded. No value or direction-of-change claim is published.",
       "value": null,
-      "period": "Not verified for this reporting period",
+      "period": "Not verified for publication for 1–14 November 2026",
       "publishedAt": null,
-      "checkedAt": "2026-11-01",
+      "checkedAt": "2026-11-15",
       "sources": []
     },
     {
       "id": "metric-1",
       "name": "Australian CPI",
-      "note": "Unavailable for publication: the finance workflow supplied latest observations but not dated release-level source evidence required by this feed; no value or direction-of-change claim is published.",
+      "note": "Unavailable for publication: finance snapshot and history were queried, but the returned data did not establish both a dated official release and a release-level source URL. History was restricted through 14 November; later-dated snapshot reference periods were excluded. No value or direction-of-change claim is published.",
       "value": null,
-      "period": "Not verified for this reporting period",
+      "period": "Not verified for publication for 1–14 November 2026",
       "publishedAt": null,
-      "checkedAt": "2026-11-01",
+      "checkedAt": "2026-11-15",
       "sources": []
     },
     {
       "id": "metric-2",
       "name": "Consumer sentiment",
-      "note": "Unavailable for publication: the finance workflow supplied latest observations but not dated release-level source evidence required by this feed; no value or direction-of-change claim is published.",
+      "note": "Unavailable for publication: finance snapshot and history were queried, but the returned data did not establish both a dated official release and a release-level source URL. History was restricted through 14 November; later-dated snapshot reference periods were excluded. No value or direction-of-change claim is published.",
       "value": null,
-      "period": "Not verified for this reporting period",
+      "period": "Not verified for publication for 1–14 November 2026",
       "publishedAt": null,
-      "checkedAt": "2026-11-01",
+      "checkedAt": "2026-11-15",
       "sources": []
     },
     {
       "id": "metric-3",
       "name": "Household spending",
-      "note": "Unavailable for publication: the finance workflow supplied latest observations but not dated release-level source evidence required by this feed; no value or direction-of-change claim is published.",
+      "note": "Unavailable for publication: finance snapshot and history were queried, but the returned data did not establish both a dated official release and a release-level source URL. History was restricted through 14 November; later-dated snapshot reference periods were excluded. No value or direction-of-change claim is published.",
       "value": null,
-      "period": "Not verified for this reporting period",
+      "period": "Not verified for publication for 1–14 November 2026",
       "publishedAt": null,
-      "checkedAt": "2026-11-01",
+      "checkedAt": "2026-11-15",
       "sources": []
     },
     {
       "id": "metric-4",
       "name": "Retail spending",
-      "note": "Unavailable: the finance query did not return a retail-sales observation with verifiable release-level provenance; no substitute household-spending figure is presented as retail sales.",
+      "note": "Unavailable: finance queries did not supply a retail-sales observation with dated, release-level provenance. Household spending is not relabelled as retail sales.",
       "value": null,
-      "period": "Not verified for this reporting period",
+      "period": "Not verified for publication for 1–14 November 2026",
       "publishedAt": null,
-      "checkedAt": "2026-11-01",
+      "checkedAt": "2026-11-15",
       "sources": []
     },
     {
@@ -1058,9 +886,9 @@
       "name": "Share of voice",
       "note": "Unavailable: no measured brand-monitoring dataset, defined universe or measurement methodology is connected; article sampling is not share of voice.",
       "value": null,
-      "period": "Not verified for this reporting period",
+      "period": "Not verified for publication for 1–14 November 2026",
       "publishedAt": null,
-      "checkedAt": "2026-11-01",
+      "checkedAt": "2026-11-15",
       "sources": []
     },
     {
@@ -1068,9 +896,9 @@
       "name": "Brand sentiment",
       "note": "Unavailable: individual reviews are attributed opinions, not a representative sentiment measurement.",
       "value": null,
-      "period": "Not verified for this reporting period",
+      "period": "Not verified for publication for 1–14 November 2026",
       "publishedAt": null,
-      "checkedAt": "2026-11-01",
+      "checkedAt": "2026-11-15",
       "sources": []
     },
     {
@@ -1078,9 +906,9 @@
       "name": "Price sensitivity",
       "note": "Unavailable: no representative survey or measured purchasing dataset is available for this public-only research feed.",
       "value": null,
-      "period": "Not verified for this reporting period",
+      "period": "Not verified for publication for 1–14 November 2026",
       "publishedAt": null,
-      "checkedAt": "2026-11-01",
+      "checkedAt": "2026-11-15",
       "sources": []
     },
     {
@@ -1088,157 +916,93 @@
       "name": "Buying climate",
       "note": "Unavailable: no validated composite methodology or measured input dataset is available; no synthetic index is generated.",
       "value": null,
-      "period": "Not verified for this reporting period",
+      "period": "Not verified for publication for 1–14 November 2026",
       "publishedAt": null,
-      "checkedAt": "2026-11-01",
+      "checkedAt": "2026-11-15",
       "sources": []
     }
   ],
   "actions": [
     {
-      "id": "connected-demo",
-      "title": "Refresh connected-system demonstrations",
-      "detail": "Editorial action: demonstrate television, streaming and physical-source workflows side by side; verify app versions, regional service support and stock before making promises.",
-      "brand": "KEF",
+      "id": "action-wireless-compatibility",
+      "title": "Prepare compatibility-led wireless demonstrations",
+      "detail": "Editorial proposal: check exact models, firmware, app versions and accessories before demonstrating wireless surround or room correction. Verify operation locally; the cited announcements do not prove every device has received an update.",
+      "brand": "Cross-brand",
       "sourceIds": [
-        "kef-coda-w-melbourne",
-        "sonos-android-web-services",
-        "wiim-ultra-october-firmware"
+        "kef-xio-wireless-surround",
+        "wiim-home-3613",
+        "cambridge-roommagic-update",
+        "sonos-november-app-update"
       ]
     },
     {
-      "id": "classical-jazz-discovery",
-      "title": "Offer a classical and jazz discovery session",
-      "detail": "Editorial action: test Presto Music on the exact demonstration device before offering a guided session; software integration is a conversation starter, not evidence of increased customer demand.",
-      "brand": "Bowers & Wilkins",
+      "id": "action-cd-listening",
+      "title": "Build an attributed CD-listening comparison",
+      "detail": "Editorial proposal: use the Arcam awards article and NAD's feature to explain operation, connections and listening differences. Label awards as editorial judgments and manufacturer technology claims as claims; do not infer a measured CD-sales trend.",
+      "brand": "Cross-brand",
       "sourceIds": [
-        "bw-presto-music",
-        "wiim-ultra-october-firmware"
+        "arcam-cd-awards",
+        "nad-c569-feature"
       ]
     },
     {
-      "id": "hybrid-media-demo",
-      "title": "Compare physical-media and streaming system choices",
-      "detail": "Editorial action: build an audition around the listener's existing records, CDs, television and streaming services; contrast integrated connectivity with a deliberately separate source-and-amplifier system.",
-      "brand": "NAD",
+      "id": "action-system-connection-checklist",
+      "title": "Start source-component discussions with connections",
+      "detail": "Editorial proposal: distinguish an external-DAC transport from a turntable with built-in phono and Bluetooth options. Confirm the intended amplification and inputs before suggesting a system.",
+      "brand": "Cross-brand",
       "sourceIds": [
-        "nad-c359s-c569",
-        "moon-341-analogue-amplifier",
-        "marantz-mcr60n-context",
-        "cambridge-spira-context"
+        "aurender-n20-review",
+        "denon-dp500bt-coverage",
+        "hegel-buying-guide-context"
       ]
     },
     {
-      "id": "room-first-demo",
-      "title": "Start with the room, not the largest product",
-      "detail": "Editorial action: ask about room dimensions, placement freedom and bass preference before choosing demonstration products; do not generalise one review into market sentiment.",
-      "brand": "Denon",
+      "id": "action-personal-listening",
+      "title": "Use familiar recordings and explicit room setup",
+      "detail": "Editorial proposal: invite listeners to choose familiar music and discuss room layout before comparing speakers. This is a demonstration-practice suggestion, not a claim of measured customer demand or conversion improvement.",
+      "brand": "Marten",
       "sourceIds": [
-        "denon-home600-review",
-        "monitor-audio-experience-centre-award"
+        "marten-listening-profile"
       ]
     },
     {
-      "id": "installer-review",
-      "title": "Review concealed and immersive installation requirements",
-      "detail": "Editorial action: use the compact-receiver and professional-monitor examples for installation training; verify ventilation, mounting, channel count and calibration needs without assuming identical products or use cases.",
-      "brand": "Martin Logan",
+      "id": "action-seasonal-use-cases",
+      "title": "Organise seasonal content by use case",
+      "detail": "Editorial proposal: structure optional public content around music, movies and room design, following the verified gift-guide theme. Do not publish local offers or availability claims without separate public confirmation.",
+      "brand": "Monitor Audio",
       "sourceIds": [
-        "martinlogan-usr51-context",
-        "focal-immersive-monitor-case-study"
+        "monitor-audio-gift-guide"
       ]
     },
     {
-      "id": "future-range-qualification",
-      "title": "Qualify interest without promising unconfirmed delivery",
-      "detail": "Editorial action: discuss room suitability and audition preferences for announced products, recording that overseas production schedules do not establish Australian stock or delivery dates.",
-      "brand": "JBL",
+      "id": "action-overseas-verification",
+      "title": "Keep overseas coverage separate from Australian promises",
+      "detail": "Editorial proposal: treat foreign launch schedules, show notices and distribution announcements as research leads. Confirm Australian timing, support and availability independently before offering auditions or making supply commitments.",
+      "brand": "Cross-brand",
       "sourceIds": [
-        "jbl-l150-classic",
-        "magico-a3-2027-context",
-        "klipsch-reference-signature-overview"
-      ]
-    },
-    {
-      "id": "high-end-evidence",
-      "title": "Separate show appearances from listening evidence",
-      "detail": "Editorial action: label static displays, interviews and live demonstrations accurately when discussing show coverage; invite a real audition rather than borrowing a listening verdict from a display report.",
-      "brand": "Dan D'Agostino",
-      "sourceIds": [
-        "dagostino-relentless-static-display",
-        "estelon-forza-ultra-warsaw",
-        "wilson-autobiography-warsaw",
-        "marten-dexter-context"
-      ]
-    },
-    {
-      "id": "system-architecture",
-      "title": "Clarify source and amplification roles",
-      "detail": "Editorial action: ask which existing components should be retained before comparing analogue-only, streaming-integrated and separate power-amplifier architectures.",
-      "brand": "Hegel",
-      "sourceIds": [
-        "hegel-h200-a200-context",
-        "eversolo-amp-f8-uk-report",
-        "linn-343-context"
-      ]
-    },
-    {
-      "id": "accessory-evidence",
-      "title": "Keep accessory recommendations testable",
-      "detail": "Editorial action: prioritise connection needs, reliable operation and safe placement; use controlled demonstrations instead of unverified sonic or market-demand claims for network and power accessories.",
-      "brand": "AudioQuest",
-      "sourceIds": [
-        "audioquest-toronto-system-context",
-        "aurender-source-network-context",
-        "vivid-kaya25-older-review"
-      ]
-    },
-    {
-      "id": "flagship-price-context",
-      "title": "Use new flagships as context, not head-to-head claims",
-      "brand": "Multiple",
-      "detail": "Recent flagship launches (B&W 800 D5, Focal Diva Alta Utopia, Sonus faber Olympica G3) show how high premium pricing now reaches. Use them to frame value conversations around products like KEF LS LUXE, without asserting comparative performance.",
-      "sourceIds": [
-        "bw-800-d5-availability",
-        "focal-diva-alta-utopia",
-        "sonus-faber-olympica-g3",
-        "kef-ls-luxe-australia"
-      ]
-    },
-    {
-      "id": "integrator-control-talking-point",
-      "title": "Raise control-system integration with custom installers",
-      "brand": "KEF",
-      "detail": "Mention certified KEF drivers for Crestron Home when discussing whole-home projects, and be ready for Sonos ecosystem comparisons; confirm driver availability before committing to a design.",
-      "sourceIds": [
-        "kef-crestron-home-drivers",
-        "sonos-beam-ultra-ace-ultra"
-      ]
-    },
-    {
-      "id": "home-theatre-range-refresh",
-      "title": "Prepare for Klipsch range-refresh questions",
-      "brand": "Klipsch",
-      "detail": "Reference Premiere III and the limited Klipschorn may prompt home theatre and heritage enquiries; confirm local timing and pricing before quoting.",
-      "sourceIds": [
-        "klipsch-rp3-klipschorn-80th"
+        "klipsch-stratos-headphones",
+        "eversolo-japan-distribution",
+        "yg-vesper-future-event",
+        "gryphon-capitol-announcement-context",
+        "linn-343-news-feature"
       ]
     }
   ],
   "limitations": [
-    "All 29 fixed coverage brands were searched and source pages reviewed; checked means evidence was reviewed, not that every brand had a new announcement or that the entire web was exhaustively monitored.",
-    "Overall status is partial because Australian macroeconomic release-level provenance could not be verified from the finance dataset returned in this run; economic values remain null rather than publishing undated observations.",
-    "Dated developments are articles or release notices published during 15–31 October 2026 inclusive; a new review or show report is not automatically a new product launch.",
-    "Older articles and undated product pages are context; modification dates, crawl dates, site clocks and event dates are not substituted for publication dates.",
-    "Hegel's visible review date gives only October 2026 and Vivid Audio's full review only October 2023; both publicationDate fields remain null rather than inventing a day.",
-    "The fixed coverage label Moon Audio is interpreted here as MOON by Simaudio; it does not refer to the similarly named retailer.",
-    "Source publication dates are retained as displayed; checkedAt is the Australia/Sydney verification date and generatedAt is the actual report-generation instant.",
-    "Foreign launch schedules and manufacturer claims do not establish Australian availability, pricing, local stock, independent performance or demand.",
-    "Publications and manufacturers were sampled through web search and page verification; inaccessible candidate links were excluded in favour of accessible evidence, not recorded as proof of no news.",
-    "No measured mention volume, share of voice, brand sentiment, price sensitivity or buying-climate index is available; none is estimated from search counts or selected articles.",
-    "Implications and actions are editorial suggestions tied to cited public evidence, not facts about individual accounts or instructions to transact.",
-    "No private customer records, sales data, account plans, login data or dashboard databases were consulted or published; only public research JSON is changed.",
-    "This feed publication does not verify whether the private dashboard's feed integration has been released; no dashboard code or database is changed by this update.",
-    "Supplemented on 3 November 2026 with seven source-checked items carried over from the Hi-Fi Market Pulse dashboard. All are earlier context published before this period; the dashboard's synthetic metrics, mention counts and internal commercial claims were not carried over. generatedAt and the reporting period are unchanged."
+    "All 29 fixed coverage brands were independently searched and cited public pages reviewed. Checked means evidence was reviewed, not that every brand has an in-period announcement or that the entire web was exhaustively monitored.",
+    "Overall status is partial because Australian macroeconomic release-level provenance remains unavailable in the finance results. Snapshot and date-bounded history were reviewed; unverifiable values and later-dated reference periods are not published.",
+    "The scheduled 15 November 2026 run covers 1–14 November inclusive in Australia/Sydney. generatedAt is the actual preparation instant; nextRefreshAt is 1 December 2026 at 00:00 AEDT, not a rolling interval.",
+    "A development can be a newly published review, software release note, report or editorial feature. It is not automatically a product launch. Overseas events occurring before or after this window retain their actual event dates.",
+    "Older and undated material is context. Search crawl dates, site clocks, issue-cover dates and page-modification dates are not substituted for article or release dates.",
+    "Gryphon's metadata date of 6 November differs from its 13 November body dateline; its item is context with a null publicationDate. NAD's displayed 12 November article date is retained despite 11 November extraction metadata. Sonos's 9 November UTC post timestamp is retained alongside its 10 November heading.",
+    "Wilson Audio's reviewed index lacks precise dates; Boulder and Magico's reviewed index entries are older than the window. These are evidence limitations, not proof of no news.",
+    "The library listing for Stereophile's December issue provides a 10 November release date but not the full Vivid Audio review or award text. No new award result is inferred from a table of contents.",
+    "The fixed label Moon Audio refers to MOON by Simaudio, not the similarly named retailer.",
+    "Manufacturer marketing, sponsored content, retailer articles and editorial reviews are labelled as such. Product specifications and subjective opinions are not independent test measurements.",
+    "Foreign announcements do not establish Australian stock, pricing, local launch dates, warranty arrangements or demand. No overseas price is presented as an Australian offer.",
+    "No representative dataset or methodology is available for mention volumes, share of voice, sentiment, price sensitivity or a buying-climate index. These are not estimated from search counts or sampled articles.",
+    "Implications and actions are editorial suggestions tied to cited public evidence, not facts about individual customers, account plans or authority to transact.",
+    "Only public research was consulted. No private sales files, customer records, account plans, login data, emails, dashboard source or databases were accessed for this refresh.",
+    "This publication updates only the authorised public research feed and archive. It neither publishes app code nor verifies whether the dashboard's feed integration has been released."
   ]
 }
